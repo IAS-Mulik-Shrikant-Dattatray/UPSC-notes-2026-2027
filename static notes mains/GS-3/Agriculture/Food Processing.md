@@ -147,3 +147,18 @@ Sideways linkages involve the use of by-products or waste from the main industri
 
 
 -----
+
+
+
+**5. Scope and Significance of the Food Processing Sector in India**  
+
+India's shift from food scarcity to surplus creates vast opportunities for expanding food processing. The sector's scope can be seen in the following key points:
+
+- **Contribution to GVA**: In 2020-21, the Food Processing sector contributed 10.54% to the GVA of the manufacturing sector and 11.57% to the GVA of the agriculture sector (at 2011-12 prices).
+- **Growing Domestic Market**: With a population of over 1.4 billion and a rising middle class with higher disposable incomes, there is significant domestic demand for processed food.
+- **Investment and Employment Potential**: The Confederation of Indian Industry (CII) estimates the sector could attract up to US $33 billion in investment over the next 10 years and generate 9 million person-days of employment.
+- **Major Food Producer**: India is one of the largest food producers globally, offering immense opportunities for the food processing sector.
+
+
+
+-----
