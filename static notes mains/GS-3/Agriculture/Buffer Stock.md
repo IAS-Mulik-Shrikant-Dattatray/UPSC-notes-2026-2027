@@ -49,3 +49,8 @@ The buffer stock system is essential for preventing inflationary pressures on fo
 
 ----
 
+![alt text](image-6.png)
+
+
+----
+
