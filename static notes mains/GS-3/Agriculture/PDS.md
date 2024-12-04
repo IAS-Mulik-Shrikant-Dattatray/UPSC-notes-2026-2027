@@ -193,3 +193,40 @@ The Public Distribution System (PDS) was initially a universal entitlement schem
 
 ----
 
+**Food Corporation of India (FCI)**
+
+The Food Corporation of India (FCI), established in 1965 under the Food Corporation Act of 1964, is the primary agency for providing food grains to the Public Distribution System (PDS). Its key responsibilities include purchasing, storing, moving, transporting, distributing, and selling food grains and other foodstuffs. FCI has three main objectives:
+
+1. **Price Support for Farmers**: Ensures farmers receive remunerative prices and consumers pay uniform prices for food grains.
+2. **Procure and Supply Grains for PDS**: Supplies subsidized food grains to economically vulnerable sections.
+3. **Maintain Strategic Reserves**: Keeps reserves to stabilize the market for basic food grains.
+
+### Recommendations of the High-Level Committee on FCI Restructuring (2015)
+The Committee, chaired by Shanta Kumar, made several recommendations:
+
+1. **Procurement Issues**:
+   - FCI should transfer procurement responsibilities to experienced states like Punjab and Haryana, focusing on states with distress sales.
+   - Revise the Minimum Support Price (MSP) policy to promote crop diversification.
+   - Ensure MSP coordination with trade policy to prevent imported crops from being cheaper than MSP.
+
+2. **PDS and NFSA**:
+   - Delay NFSA implementation in states lacking full computerization and vigilance committees.
+   - Reduce the current NFSA coverage from 67% to 40% to ease fiscal burden.
+   - Gradual introduction of cash transfers in PDS, starting with large cities, with an option for deficit states to choose between cash or physical grain distribution.
+
+3. **Stocking and Movement**:
+   - Outsource stocking operations to the private sector.
+
+4. **Buffer Stocking and Liquidation**:
+   - Establish a transparent and automatic liquidation policy for surplus stocks.
+
+5. **Labor Issues**:
+   - Increase mechanization to reduce manual labor needs and hire private sector executives for top-level positions.
+   - Promote daily wage or contractual labor and outsourcing where possible.
+
+6. **Direct Subsidy to Farmers**:
+   - Provide direct cash subsidies to farmers (Rs. 7,000 per hectare), deregulating the fertilizer sector.
+   - This would reduce fertilizer diversion, improve efficiency, and ease farmer distress by reducing dependence on high-interest loans for inputs.
+
+
+-----
