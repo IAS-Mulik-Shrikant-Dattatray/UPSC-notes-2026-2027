@@ -360,5 +360,20 @@ An Integrated National Fisheries Action Plan 2020 has been developed to achieve 
 ----
 
 
+**Operation Flood: Major Achievements**
+
+Launched in 1970 by the **National Dairy Development Board (NDDB)** under the guidance of **Verghese Kurien**, Operation Flood became the world’s largest dairy development program.
+
+**Key Achievements:**
+1. **Global Impact**: Transformed India from a milk-deficient nation to the world’s largest milk producer, surpassing the USA in 1998. By 2010–11, India contributed about 17% of the global milk output.
+2. **Increased Milk Availability**: Over 30 years, it doubled milk availability per person and made dairy farming a major rural employment source.
+3. **National Milk Grid**: A nationwide system that links producers to consumers in over 700 towns and cities, stabilizing prices and ensuring fair market rates for producers.
+4. **Cooperative Structure**: The program relied on village-level milk producer cooperatives, which provided services, inputs, and technology to members.
+5. **Self-Sufficiency**: By 1975, India stopped importing milk and milk products. For the last 15 years, India has maintained its position as the largest milk producer, thanks to Operation Flood and the White Revolution.
+
+
+-----
+
+
 
 
