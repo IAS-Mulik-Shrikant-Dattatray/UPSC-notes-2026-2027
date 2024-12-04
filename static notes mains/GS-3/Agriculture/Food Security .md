@@ -21,7 +21,7 @@ Food security requires not just the availability of food, but also the **purchas
 
 While the **Constitution of India** does not explicitly mention the right to food, the **right to life** under **Article 21** has been interpreted by the Supreme Court and the NHRC to include the **right to live with human dignity**, which encompasses the **right to food** and other basic necessities.
 
-Additionally, **Article 47** (Directive Principles of State Policy) directs the state to prioritize **raising nutrition levels**, improving the **standard of living**, and enhancing **public health** as part of its fundamental duties. 
+Additionally, **Article 47** (Directive Principles of State Policy) directs the state to prioritize **raising nutrition levels**, improving the **standard of living**, and enhancing **public health** as part of its fundamental duties.
 
 Malnutrition is the silent assassin and is devastating to not just large swathes of the population but also to the nation's economy.
 -----
