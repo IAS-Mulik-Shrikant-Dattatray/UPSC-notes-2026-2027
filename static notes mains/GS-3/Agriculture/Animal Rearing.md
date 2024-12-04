@@ -300,3 +300,22 @@ Fisheries are a key sector in India, providing food, nutrition, employment, and 
 
 
 ----
+
+
+**National Fisheries Policy 2020: Mission and Objectives**
+
+**Mission:**
+The policy aims to create an ecologically sustainable, economically viable, and socially inclusive fisheries sector that contributes to the economic well-being of fishers and fish farmers, ensuring food and nutritional security for the country.
+
+**Objectives:**
+1. Establish a strong management and regulatory framework with legal support for effective resource management using an Ecosystem Approach to Fisheries (EAF).
+2. Modernize and diversify fishing practices, focusing on sustainability and the infusion of science and technology.
+3. Conserve native fish genetic resources and their ecosystems.
+4. Strengthen the fisheries value chain by improving infrastructure, reducing post-harvest losses, and promoting value-added products.
+5. Create employment and entrepreneurship opportunities along the value chain to increase incomes and improve living standards of fishers and farmers.
+6. Ensure food and nutritional security by increasing the availability of safe, affordable, and quality fish.
+
+
+-----
+
+
