@@ -7,7 +7,9 @@ Animal husbandry involves raising livestock and selective breeding. It is a bran
 
 ----
 
-**Significance of Animal Rearing**  
+**2. Significance of Animal Rearing :** 
+
+
 Livestock plays a vital role in farmers' economies, especially in India, where mixed farming (combining crops and livestock) enhances resource efficiency. Livestock serves various purposes:
 
 - **Income**  
