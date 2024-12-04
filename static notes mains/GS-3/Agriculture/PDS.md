@@ -176,3 +176,20 @@ The One Nation, One Ration Card (ONORC) Scheme is a government initiative design
 
 ----
 
+**1.8 Universal PDS**
+
+The Public Distribution System (PDS) was initially a universal entitlement scheme. In 1997, it was transformed into the Targeted PDS. However, Tamil Nadu continued to maintain the Universal PDS. This approach has both advantages and limitations:
+
+**Advantages**:
+- Ensures all citizens, regardless of income, have access to subsidized food grains.
+- Reduces the chances of exclusion errors, ensuring no eligible person is left out.
+- Simplifies implementation by avoiding the complexities of identifying beneficiaries.
+
+**Limitations**:
+- High fiscal burden on the government due to subsidies for all households, including non-poor families.
+- Potential for inefficiency, as it provides subsidies to those who may not need them.
+
+![alt text](image-5.png)
+
+----
+
