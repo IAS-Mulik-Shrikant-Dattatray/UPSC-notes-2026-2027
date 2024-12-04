@@ -339,5 +339,26 @@ Launched in September 2020 by PM Narendra Modi, the scheme aims to boost fish pr
 
 
 
+**Blue Revolution – Neel Kranti Mission: Overview**
+
+The Blue Revolution, under the **Integrated Development and Management of Fisheries (Central Sector Scheme)**, aims to boost fisheries production and productivity from both inland and marine resources, focusing on sustainable aquaculture practices.
+
+**Objectives:**
+1. Increase fish production sustainably for economic growth.
+2. Modernize the fisheries sector with a focus on new technologies.
+3. Ensure food and nutritional security.
+4. Generate employment and increase export earnings.
+5. Promote inclusive development and empower fishers and aquaculture farmers.
+6. Strengthen institutional arrangements for the fisheries sector.
+7. Improve fisheries data and GIS systems, assisting state governments with data collection and water body mapping.
+8. Enhance Monitoring, Control, and Surveillance (MCS) systems, including biometric ID cards for marine fishers and vessel registration.
+9. Implement welfare schemes for fishers, such as housing, basic amenities, insurance, and grants to fisher cooperatives.
+
+An Integrated National Fisheries Action Plan 2020 has been developed to achieve the goals of the Blue Revolution.
+
+
+----
+
+
 
 
