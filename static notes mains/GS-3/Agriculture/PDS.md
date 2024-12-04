@@ -46,4 +46,50 @@ Designated Hill Areas (DHA)
 
 
 ![alt text](image-2.png)
+
+
 ---
+
+**1.3 Targeted Public Distribution System (TPDS)**
+
+Launched in 1997, the Targeted Public Distribution System (TPDS) aims to provide food grains at highly subsidized rates to people Below Poverty Line (BPL) and at higher prices to those Above Poverty Line (APL). States are responsible for identifying the poor under this scheme. TPDS retains the universal nature of the PDS but focuses on BPL families.
+
+- **Allocation**: BPL and Antyodaya Anna Yojana (AAY) families receive 35 kg of food grains per month, while APL families receive between 15 to 35 kg per month.
+
+**Key Features of TPDS:**
+1. **Targeting**: BPL includes families earning a maximum of Rs. 15,000 annually. Initially, 10 kg of food grains were allocated per household per month, later increased to 35 kg in 2002.
+2. **Dual Prices**: 
+   - In 2000, the price for BPL families was set at 50% of the economic cost, and for APL families, at 100%. 
+   - In 2001, a third price was introduced for AAY beneficiaries (Rs 2/kg for wheat and Rs 3/kg for rice).
+3. **Central-State Control**: The Central Government allocates food grains to states, while state governments manage the distribution. The Central Government also decides the BPL population size and their entitlement.
+
+**Management of Food Grains for TPDS:**
+- The **Central Government** procures food grains at a minimum support price (MSP) and sells them to states at the central issue price. It handles transportation to state godowns.
+- The **State Governments** transport food grains from godowns to fair price shops, where beneficiaries purchase them at subsidized prices. Some states further subsidize the prices.
+- **The Food Corporation of India (FCI)** is responsible for:
+  - Procuring grains at MSP,
+  - Maintaining buffer stocks for food security,
+  - Allocating and transporting grains to states,
+  - Selling grains to states at the central issue price for distribution.
+
+
+**Issues related to TPDS**
+
+1. **Targeting**: The income-based definition of BPL eligibility misses many vulnerable populations. Exclusion errors are high, with up to 63% of poor households not covered by the system (NSS-2007). Additionally, APL households sometimes receive large amounts of subsidized grains, leading to high inclusion errors. NCAER reports issues like ‘ghost’ cardholders.
+   
+2. **Storage Imbalances**: There is a shortage of storage in consuming states like Rajasthan and Maharashtra, while states with large procurement (e.g., Punjab, Haryana, Uttar Pradesh) have excess storage capacity.
+
+3. **Leakages and Diversion**: Food grains are often diverted to open markets due to corruption. Transport losses and the issue of ghost beneficiaries further contribute to leakages.
+
+4. **Late and Irregular Delivery**: The irregular arrival of grains at Fair Price Shops, combined with a lack of awareness among poor households, leads to issues with physical and economic access.
+
+5. **No Variation in Purchases Across Income Groups**: A successful targeting system should show a decrease in PDS purchases as income increases, but this is not happening under the current system.
+
+6. **Failure in Surplus-to-Deficit Grain Transfer**: The TPDS has hindered the objective of stabilizing grain prices across regions. With APL families priced out and BPL quotas low, the ability to stabilize prices has weakened, unlike in the universal PDS system.
+
+7. **Increased Subsidy Burden**: The introduction of AAY and low prices for BPL families, along with the exclusion of APL households, has increased the subsidy burden. This has also led to higher stocks with the Food Corporation of India (FCI).
+
+
+----
+
+
