@@ -273,3 +273,11 @@ These challenges hinder the full potential of India's meat sector, requiring sig
 ----
 
 
+**Fisheries in India: Overview**
+
+Fisheries are a key sector in India, providing food, nutrition, employment, and income. It supports the livelihoods of over 28 million people, especially in marginalized communities. Fish is an affordable, nutritious source of animal protein, helping combat hunger and malnutrition.
+
+- **Economic Contribution**: Fisheries contribute 1.24% to India's Gross Value Added (GVA) and 7.28% to agricultural GVA.
+- **Management**: Fisheries are a state subject in India. Inland fisheries are managed entirely by state governments, while marine fisheries are jointly managed by the Central and Coastal State/UT governments.
+
+----
