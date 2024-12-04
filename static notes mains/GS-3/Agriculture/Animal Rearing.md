@@ -268,3 +268,8 @@ These challenges hinder the full potential of India's meat sector, requiring sig
 
 -----
 
+![alt text](image-16.png)
+
+----
+
+
