@@ -43,4 +43,7 @@ Designated Hill Areas (DHA)
 - **2000**: The Antyodaya Anna Yojana (AAY) was launched to assist the poorest families, providing 25kg of food grains per month at heavily subsidized rates. This was increased to 35kg in 2002, targeting 1 crore households.
 - **2013**: The National Food Security Act (NFSA) was enacted, ensuring 5kg of food grains per person per month to around 82 crore people.
 
+
+
+![alt text](image-2.png)
 ---
