@@ -191,3 +191,55 @@ Though **communicable diseases** are still prevalent in India, **non-communicabl
 -----
 
 
+**4. WTO and India’s Food Security Objectives**
+
+India’s food security policies, especially its public stockholding programs and related subsidies, have been a significant point of contention at the **World Trade Organization (WTO)**.
+
+### 4.1. Key Issues at the WTO
+
+- **Public Stockholding Programs**: India procures food grains (like rice and wheat) from farmers at **minimum support prices (MSPs)** and distributes them through the **Public Distribution System (PDS)** at subsidized rates to the poor. While the **WTO Agreement on Agriculture (AoA)** permits public stockholding, it imposes limits on the amount of subsidies that can be given without disrupting international trade.
+  
+- **Subsidy Limits and WTO Rules**: The AoA classifies domestic support measures into different boxes:
+  - **Amber Box**: Subsidies that distort trade and are subject to reduction commitments, such as MSPs.
+  - **De Minimis**: Minimal domestic support that is exempt from reduction commitments, which for developing countries is set at **10%** of the total value of agricultural production.
+  
+  India argues that its food security programs are essential for supporting its large population, but other WTO members argue that India’s subsidies exceed these limits, distorting international trade.
+
+- **Peace Clause**: During the **Bali Ministerial Conference** in 2013, the WTO introduced a **temporary Peace Clause** to protect developing countries’ public stockholding programs from legal challenges even if they exceed subsidy limits. However, this clause is temporary and subject to conditions, leading to uncertainty and ongoing disputes until a permanent solution is reached.
+
+
+---
+
+**4.2. Background and Context**
+
+- **India’s Food Security Needs**: A large portion of India's population lives in poverty and relies on subsidized food. Public stockholding programs are crucial for ensuring food security and supporting rural livelihoods by providing a minimum price to farmers.
+
+- **Global Trade Concerns**: Countries like the **United States** and **Australia**, major agricultural exporters, argue that India’s high subsidies and stockpiling can cause excessive production, leading to dumping of surplus goods in international markets. This disrupts global trade and negatively impacts farmers in other countries.
+
+- **WTO's Norms and Reform Pressures**: WTO rules on agricultural subsidies were initially designed to reduce the high subsidies of developed countries. Developing nations like India argue for more flexibility due to their specific developmental needs, creating tensions and calls for reforms to update the existing frameworks.
+
+
+----
+
+**4.3. International Reactions and Negotiations**
+
+- **Developed Countries**: Countries like the **US** and the **EU** criticize India's subsidy regime, claiming it distorts global trade and undermines fair competition. They call for stricter enforcement of WTO rules and greater transparency in India’s stockholding operations.
+
+- **Developing Countries**: Many developing nations support India, recognizing the significance of its food security programs and the challenges faced by low-income farmers. They argue for more flexible rules or exceptions within the WTO framework to accommodate these needs.
+
+- **WTO Negotiations**: WTO discussions have been prolonged, with no clear agreement on a permanent solution. India continues to advocate for a broader interpretation of the **Peace Clause** or a permanent exemption for its public stockholding programs.
+
+
+----
+
+**4.4. Challenges and Considerations**
+
+- **Compliance vs. Food Security**: India faces a challenge in balancing WTO rules with its food security needs. Adhering to subsidy limits may hinder its ability to support farmers and provide affordable food to its large population.
+
+- **Transparency and Accountability**: There are calls for greater transparency in India’s stockholding and subsidy practices. Improved reporting and compliance mechanisms could address international concerns while supporting India's domestic objectives.
+
+- **Future of Global Agricultural Trade**: The debate over India's foodgrain policy highlights broader issues in global agricultural trade, such as the disparity in subsidy practices between developed and developing countries. There is a growing need for reforms to establish a fair and equitable trading system.
+
+
+-----
+
