@@ -175,3 +175,18 @@ The government has introduced several schemes and plans to address these challen
 
 
 -----
+
+
+**5.5. National Mission on Bovine Productivity**  
+
+**Key Features**  
+
+- Launched in November 2016, the mission is part of the Rashtriya Gokul Mission.  
+- **Components:**  
+  - **Pashu Sanjivni:** An animal wellness program providing health cards and unique IDs for animals, with data uploaded to the National Data Depository.  
+  - **Advanced Breeding Technology:** Uses IVF, MOET, and sex-sorted semen techniques to improve the availability of disease-free, high genetic merit female bovines.  
+  - **e-Pashuhaat:** A portal launched on 26 Nov 2016 to connect breeders and farmers for buying and selling germplasm.  
+  - **National Bovine Genomic Centre for Indigenous Breeds (NBGC-IB).**
+
+
+-----
