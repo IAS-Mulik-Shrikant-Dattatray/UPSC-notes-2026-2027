@@ -77,3 +77,84 @@ To address both **quantitative** and **qualitative** aspects of food security, I
 
 
 ------
+
+
+**4.1. Integrated Child Development Scheme (ICDS)**
+
+Launched in 1975, the **Integrated Child Development Scheme (ICDS)** is one of the largest child intervention programs globally. It offers a comprehensive package of six basic services aimed at children up to 6 years of age, and pregnant and lactating mothers. The key services include:
+
+1. **Supplementary Feeding**: Provides additional nutrition (500 calories and 12-15g of protein for children, 600 calories and 18-20g of protein for pregnant mothers).
+2. **Immunization**: Vaccines to protect children from preventable diseases.
+3. **Health Checkups**: Regular health screenings for early detection and treatment.
+4. **Referral Services**: Referrals for children or mothers needing specialized medical care.
+5. **Health and Nutrition Education**: Educates adult women on health and nutrition practices.
+6. **Non-Formal Pre-School Education**: Early childhood education for children aged 3-6 years.
+
+
+![alt text](image-7.png)
+
+
+-----
+
+
+**4.2. Mid-Day Meal (MDM) Scheme**
+
+Launched in 1995, the **Mid-Day Meal (MDM) Scheme** is the world's largest school feeding program, reaching approximately 11 crore children in schools and Education Guarantee Centres (EGS) across India. The scheme aims to achieve the following objectives:
+
+- **Increase Enrolment and Attendance**: Encourage children to enroll and attend school regularly.
+- **Reduce Dropout Rates**: Minimize student dropouts.
+- **Improve Nutritional Status**: Enhance the nutritional intake of primary school children.
+
+Since 2008-09, the scheme has expanded to include children in upper primary classes (up to Class VIII). The nutritional norms are as follows:
+
+- **Primary Students**: 300 calories and 8-12g of protein.
+- **Upper Primary Students**: 700 calories and 20g of protein.
+
+-----
+
+
+**4.3. Critical Appraisal of ICDS and MDM**
+
+India’s flagship programs, **ICDS** and **MDM**, aimed at combating malnutrition, face several challenges:
+
+1. **Limited Impact**: Despite significant financial investments (Rs 8,000 crore/year), the impact of **ICDS** and **MDM** on malnutrition remains limited, especially in states with high malnutrition rates, which often have low coverage of these schemes.
+   
+2. **Poor Quality Meals**: Many schools provide nutrient-deficient meals, compromising the effectiveness of **MDM** in addressing malnutrition.
+
+3. **Narrow Focus of ICDS**: The **ICDS** primarily focuses on the **Supplementary Nutrition Program (SNP)** for children aged 3-6 years, neglecting infants (0-3 years), a critical period for nutrition.
+
+4. **Hidden Hunger**: **ICDS** meals are often nutrition-deficient, leading to hidden hunger among children, manifesting as deficiencies in iodine, calcium, iron, or Vitamin A.
+
+5. **Neglected Functions in ICDS**: Other important functions, such as child immunization and preschool education, are often neglected, except in some states like Tamil Nadu.
+
+6. **Implementation Issues**: **ICDS** suffers from poor implementation, with vacant posts (such as CDPOs and supervisors) in many states.
+
+7. **Corruption and Misuse**: **ICDS** faces rampant corruption, with resources misused, including **panjiri** (energy mix meant for children) being diverted for feeding cattle in some areas like Uttar Pradesh.
+
+8. **Contractual Issues in MDM**: **MDM** has fallen prey to private contractors and political interference, with influential groups gaining contracts through **SHGs** and **Mahila Mandals**, undermining the scheme's goals.
+
+
+------
+
+
+**4.4. National Nutrition Mission (NNM)**
+
+The **National Nutrition Mission** (NNM) is a flagship program led by the **Ministry of Women and Child Development (WCD)**, in collaboration with other ministries like **Health and Family Welfare** and **Drinking Water and Sanitation**, ensuring convergence with various initiatives.
+
+**Target**: The mission aims to reduce:
+- **Stunting**, **undernutrition**, and **low birth weight** by 2% annually.
+- **Anaemia** among children (6-59 months) and women/adolescent girls (15-49 years) by 3% annually.
+- **Stunting** to drop from **38.4%** (NFHS-4) to **25%** by 2022 (**Mission 25 by 2022**).
+
+**Salient Features**:
+- **NNM** monitors, supervises, sets targets, and guides nutrition interventions through a **life-cycle approach**.
+- **Mapping of malnutrition-related schemes** for better coordination.
+- Real-time **ICT-based monitoring system**.
+- **Incentives** for states/UTs meeting targets and **Anganwadi Workers (AWW)** using IT tools.
+- **Measurement** of children’s height at **Anganwadi Centres**.
+- **Social audits** to track children’s health progress.
+- Establishment of **Nutrition Resource Centres**.
+
+
+
+-------
