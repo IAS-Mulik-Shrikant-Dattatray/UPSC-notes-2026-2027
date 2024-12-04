@@ -245,7 +245,7 @@ India’s food security policies, especially its public stockholding programs an
 
 ### Extra points : 
 
-# 1. The Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART-PDS) has transformative potential beyond food security for India.Discuss.
+**1. The Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART-PDS) has transformative potential beyond food security for India.Discuss.**
 
 The **SMART-PDS** (Scheme for Modernization and Reforms through Technology in Public Distribution System) utilizes modern ICT and automation to transform India's PDS. It creates a national-level dashboard to monitor PDS operations using advanced technologies.
 
