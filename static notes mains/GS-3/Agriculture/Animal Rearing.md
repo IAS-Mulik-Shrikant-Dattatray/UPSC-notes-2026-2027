@@ -163,3 +163,15 @@ The government has introduced several schemes and plans to address these challen
 
 ----
 
+
+**5.4. Nationwide Artificial Insemination Programme**  
+
+**Key Features :**
+  
+- The programme aims to inseminate 20,000 bovines per district across 600 districts.  
+- It is a genetic up-gradation initiative to enhance milk production through low-cost breeding technology and improve the genetic merit of milch animals using high-quality seed.  
+- All cows and buffaloes undergoing AI will be tagged and tracked through the Information Network on Animal Productivity and Health (INAPH) Database.  
+- This is one of the largest breed improvement programmes, with 100% central funding.  
+
+
+-----
