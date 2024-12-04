@@ -93,3 +93,16 @@ Launched in 1997, the Targeted Public Distribution System (TPDS) aims to provide
 ----
 
 
+**1.4 Recent PDS Reforms**
+
+1. **Digitization of Ration Cards**: This enables online entry and verification of beneficiary data, including monthly entitlements and food grain off-take. States like Andhra Pradesh, Gujarat, Tamil Nadu, and Madhya Pradesh have implemented this on a large scale.
+
+2. **Linking with Aadhar**: 56% of digitized cards are now linked with Aadhar, improving beneficiary identification and targeting.
+
+3. **Computerization of FPS Allocation**: This streamlines stock balance declarations, issuance of web-based truck challans, and allows efficient tracking of transactions. Many states have also implemented ePOS (electronic point of sale) systems to track real-time sales at Fair Price Shops.
+
+4. **Use of GPS Technology**: States like Chhattisgarh and Tamil Nadu use GPS to track the movement of food grain trucks from state depots to FPS, significantly reducing leakages.
+
+5. **One Nation One Ration Card (ONORC) Scheme**: This initiative allows beneficiaries to access their PDS entitlements from any FPS across the country, enhancing food security for migrants and mobile populations. The scheme has been implemented in all states and Union Territories as of mid-2023.
+
+----
