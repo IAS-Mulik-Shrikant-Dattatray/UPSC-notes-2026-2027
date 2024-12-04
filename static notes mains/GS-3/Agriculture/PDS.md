@@ -29,3 +29,18 @@ In addition to cereals, some states are encouraged to include other essential it
 
 ---
 
+**1.2 Context and Evolution of PDS in India**
+
+India’s Public Distribution System (PDS) is the largest distribution network of its kind globally. The government established the Agriculture Prices Commission (later renamed CACP) and the Food Corporation of India (FCI) for the procurement and storage of food grains.
+
+- **1970s**: PDS became a universal scheme for distributing subsidized food.
+- **1992**: The Revamped PDS (RPDS) was introduced in 1,775 blocks to improve food access, particularly in remote and hilly areas, and to reach poorer families. RPDS covered areas where
+special programmes like Drought Prone Area Program (DPAP), Integrated tribal development
+program (ITDP), Desert Development Program (DDP) were under operation and in certain
+Designated Hill Areas (DHA)
+- **1997**: The Targeted PDS (TPDS) was launched, focusing on the poor. It provided subsidized food and fuel to 6 crore poor families, with 7.2 million tonnes of food grains allocated annually.
+  - An ‘additional allocation’ was provided to the Above Poverty Line (APL) population, but at higher prices than the Below Poverty Line (BPL) quota.
+- **2000**: The Antyodaya Anna Yojana (AAY) was launched to assist the poorest families, providing 25kg of food grains per month at heavily subsidized rates. This was increased to 35kg in 2002, targeting 1 crore households.
+- **2013**: The National Food Security Act (NFSA) was enacted, ensuring 5kg of food grains per person per month to around 82 crore people.
+
+---
