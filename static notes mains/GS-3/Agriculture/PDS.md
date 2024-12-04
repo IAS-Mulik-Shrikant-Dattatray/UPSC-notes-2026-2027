@@ -162,3 +162,17 @@ The One Nation, One Ration Card (ONORC) Scheme is a government initiative design
 
 
 -----
+
+
+
+**1.7 Alternatives to TPDS**
+
+1. **Cash Transfers**: The 2015 Shanta Kumar Committee recommended introducing cash transfers in PDS, starting in cities with populations over 1 million and gradually extending to grain surplus states. Deficit states would have the option to choose between cash or physical grain distribution. Direct Benefit Transfer (DBT) through the PM Jan Dhan Yojana, linked with UIDAI, would help improve targeting and reduce leakages.
+
+2. **Food Coupons**: Instead of receiving subsidized grains from PDS stores, beneficiaries could receive food coupons to buy food grains from any retailer. Retailers would redeem these coupons at local banks for reimbursement. This system aims to reduce administrative costs and address issues like procurement, diversion, and black marketing of food grains.
+
+3. **Universal Basic Income (UBI)**: UBI is proposed as an alternative, providing beneficiaries with cash support. This approach gives individuals more freedom to make choices and reduces administrative costs.
+
+
+----
+
