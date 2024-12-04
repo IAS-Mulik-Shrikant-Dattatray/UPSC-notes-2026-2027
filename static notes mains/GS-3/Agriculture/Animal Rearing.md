@@ -49,3 +49,28 @@ Livestock plays a vital role in farmers' economies, especially in India, where m
 ----
 
 
+**Livestock Production**  
+According to the National Accounts Statistics 2019 by the Central Statistics Office (CSO), livestock output accounts for 31.81% of India's total agricultural and allied sector.
+
+![alt text](image-11.png)
+
+
+- **Milk**  
+  - India is the largest producer of milk globally.  
+  - Milk production in 2020-21 and 2021-22 was 209.96 million tonnes and 221.06 million tonnes, respectively, showing a 5.29% annual growth.  
+  - The per capita milk availability was 444 grams/day in 2021-22.
+
+- **Eggs**  
+  - Poultry production has grown significantly over the past four decades, transitioning from traditional farming to commercial systems.  
+  - India's poultry population is 851.81 million (according to the 20th Livestock Census), with egg production at 129.60 billion in 2021-22.  
+  - Per capita availability in 2021-22 was around 95 eggs annually.
+
+- **Wool Production**  
+  - Wool production was 46.1 million kg in 2012-13, increasing to 48.1 million kg in 2014-15, but declined to 33.04 million kg in 2021-22.  
+  - The growth rate in wool production was -10.53% in 2021-22.
+
+- **Meat Production**  
+  - Meat production increased from 5.95 million tonnes in 2012-13 to 9.29 million tonnes in 2021-22.
+
+
+-----
