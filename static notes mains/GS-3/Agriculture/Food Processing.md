@@ -191,7 +191,7 @@ The **food processing sector** in India has a significant role to play in the na
 
 
 
-**6. Potential of Processed Food Sector in India**  
+**6. Potential/scope of Processed Food Sector in India**  
 
 The food processing market in India is a rapidly growing industry with significant potential, as highlighted by the following points:
 
