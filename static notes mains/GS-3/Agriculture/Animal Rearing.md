@@ -281,3 +281,22 @@ Fisheries are a key sector in India, providing food, nutrition, employment, and 
 - **Management**: Fisheries are a state subject in India. Inland fisheries are managed entirely by state governments, while marine fisheries are jointly managed by the Central and Coastal State/UT governments.
 
 ----
+
+**Constraints in the Growth of the Fisheries Sector**
+
+1. **Marine Fisheries:**
+   - Limited expansion due to overcapacity in territorial waters.
+   - Weak regulations, inefficient management, and reliance on traditional fishing methods.
+
+2. **Inadequate Infrastructure:**
+   - Poor infrastructure such as fishing harbors, landing centers, cold chain systems, and distribution networks.
+   - Challenges in processing, value addition, traceability, certification, and lack of skilled manpower.
+
+3. **Inland Capture Fisheries:**
+   - Seasonal fishing, depleted stocks, tenure and lease rights issues, outdated harvesting technology, and low investment hinder growth.
+
+4. **Culture Fisheries:**
+   - Limited access to institutional credit, high borrowing costs, poor infrastructure for all stages of aquaculture, low technology adoption, and a shortage of skilled workers and extension services.
+
+
+----
