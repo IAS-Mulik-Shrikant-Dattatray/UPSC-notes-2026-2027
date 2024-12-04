@@ -190,3 +190,26 @@ The government has introduced several schemes and plans to address these challen
 
 
 -----
+
+
+**5.6. National Programme for Bovine Breeding and Dairy Development :**
+
+**Key Features :**
+
+- Launched in 2014 by merging four existing schemes:  
+  - National Project for Cattle and Buffalo Breeding (NPCBB)  
+  - Intensive Dairy Development Programme (IDDP)  
+  - Strengthening Infrastructure for Quality & Clean Milk Production (SIQ & CMP)  
+  - Assistance to Cooperatives (A to C)  
+- The program aims to integrate milk production and dairying scientifically to increase milk production and productivity, meeting growing demand.  
+- **Components:**  
+  - National Programme for Bovine Breeding (NPBB)  
+  - National Programme for Dairy Development (NPDD)  
+
+  ![alt text](image-14.png)
+
+
+- It includes provisions for rehabilitation assistance to improve sick milk cooperatives, with a central grant covering up to 50% of rehabilitation costs (up to Rs. 5 crore).
+
+
+-----
