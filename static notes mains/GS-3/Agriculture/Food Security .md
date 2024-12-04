@@ -261,3 +261,106 @@ The **SMART-PDS** (Scheme for Modernization and Reforms through Technology in Pu
 - **Technology upgrades**: It addresses state-level technological gaps and standardizes PDS operations nationwide.
 
 In conclusion, SMART-PDS not only strengthens food security but also enhances government efficiency and welfare scheme delivery. Its timely implementation is crucial for sustainable reforms in India’s public distribution system.
+
+
+----
+
+**2. Examine how digital transformation of the Public Distribution System (PDS) in India has helped in addressing the challenges besetting it.**
+
+The **Public Distribution System (PDS)** in India aims to manage food scarcity by distributing food grains at affordable prices, ensuring food security, stabilizing prices, and maintaining buffer stocks. However, it faces several challenges:
+
+### Challenges:
+- **Bogus cards and ghost beneficiaries**: Fake beneficiaries divert grains to the black market, causing shortages for the needy.
+- **Identification failures**: Poor biometric data, connectivity issues, or lack of Aadhaar prevent rightful beneficiaries from receiving food.
+- **Leakages**: Around 46.7% of food grains are lost during transportation.
+- **Impact on women**: Women face difficulties in updating their ration cards when they marry, often losing access to food rations.
+
+### Impact of Digital Transformation:
+- **Increased transparency**: End-to-end computerization improves efficiency and transparency in food grain distribution, as seen in states like Chhattisgarh and Tamil Nadu.
+- **Accurate beneficiary identification**: ePoS devices at Fair Price Shops (FPSs) ensure biometric/Aadhaar authentication for accurate distribution.
+- **Better tracking**: GPS tracking of trucks prevents diversion and leakage of food grains.
+- **Data centralization**: Platforms like IM-PDS and Annavitran enable nationwide portability of ration cards under the One Nation, One Ration Card (ONORC) initiative.
+
+### Measures for Improvement:
+- Enhance connectivity, improve network speed, and install more ePoS devices at FPSs.
+- Strengthen technical support through call centers and promote digital literacy to ensure better adoption of technology. 
+
+These steps will help address the PDS challenges and improve its effectiveness.
+
+
+
+------
+
+
+**3. What do you mean by operational stocks and strategic reserves in the context of foodgrain stocking norms of India? Provide a critical evaluation of the buffer stocking policy of India**
+
+**Operational stocks** refer to the reserves maintained to meet distribution needs under public welfare schemes, while **strategic reserves** are surplus stocks held beyond operational requirements to stabilize food prices and address emergencies.
+
+### Significance of Buffer Stocking Policy:
+India’s buffer stocking policy ensures food security, stabilizes prices, and addresses fluctuations in supply and demand. It helps in preventing price spikes and ensures a steady food supply during crises.
+
+### Critical Evaluation:
+- **Open-ended procurement**: The government purchases unlimited grains at Minimum Support Price (MSP), leading to excessive stocks. For example, in August 2023, stocks of rice and wheat far exceeded official limits.
+- **Financial burden**: The gap between procurement prices and the issue price leads to large subsidies, with the food subsidy bill reaching Rs. 2.88 lakh crore in FY 2021-22.
+- **Ineffective procurement**: Fixed MSPs create challenges when market conditions change between sowing and harvesting, leading to excess or insufficient procurement.
+- **Storage issues**: Inadequate storage facilities and poor conditions result in significant grain wastage, with over 1500 MT lost annually due to pests and leaks.
+- **Limited private sector involvement**: High MSPs and regulations like the Essential Commodities Act limit private sector participation in the grain market.
+- **Lack of crop diversification**: Overemphasis on wheat and rice leads to surpluses of these crops while other essential crops, like oilseeds, face deficits, forcing India to import edible oils.
+
+### Conclusion:
+There is a need to reevaluate and streamline the buffer stocking policy to reduce financial strain, improve efficiency, and promote crop diversification for better food security management.
+
+
+------
+
+
+**4. India faces the ‘triple burden of malnutrition’ that threatens to erode the growth and development of its human resources and economy. Explain. Also highlight the role of the National Nutrition Strategy to address the nutritional challenges.**
+
+
+
+The **triple burden of malnutrition** refers to the coexistence of **under-nutrition**, **hidden hunger**, and **overweight** children under five years of age, which significantly hampers the growth and development of individuals and the economy.
+
+### Status of Malnutrition in India:
+- **Human development impact**: Malnutrition adversely affects children’s education, leading to cognitive deficits and physical productivity losses. Malnourished children earn 20% less as adults and contribute to a loss of 17.3% of India's productive years due to malnutrition-related illness or early death (Lancet journal, 2018).
+- **Economic cost**: Micronutrient malnutrition costs India between 0.8% to 2.5% of its GDP, amounting to $15–46 billion, while additional healthcare costs can reduce GDP by 2-11%.
+
+### National Nutrition Strategy:
+Launched by NITI Aayog in 2017, the **National Nutrition Strategy** aims for a **Kuposhan Mukt Bharat** by 2022, with the following key features:
+- **Reduce malnutrition**: Targets all forms of malnutrition by 2030, focusing on vulnerable groups.
+- **National Nutrition Mission**: Integrates interventions across sectors like health, women and child development, and public distribution.
+- **Decentralized approach**: Encourages local innovation and accountability through flexible planning at the state and district levels.
+- **Child and maternal care**: Focuses on breastfeeding, micronutrient supplementation, and improved care for undernourished children and mothers.
+- **Governance reforms**: Promotes convergence of programs like ICDS and Swachh Bharat, targeting vulnerable communities with evidence-based models.
+
+### Conclusion:
+The **National Nutrition Strategy** plays a vital role in addressing the triple burden of malnutrition and improving the health, learning capacities, and productivity of India's population. Continued efforts are needed to achieve sustainable improvements in nutrition.
+
+
+------
+
+
+
+**5.Though the National Food Security Act, 2013, is considered as a potential revolutionary step towards the fight against hunger, it has inherent challenges, which need to be addressed to ensure food security for all. Discuss.**
+
+
+The **National Food Security Act (NFSA), 2013** was enacted to address hunger, undernourishment, and poverty in India. It aims to provide subsidized food grains to about 67% of the population (75% in rural areas and 50% in urban areas) through the Public Distribution System (PDS).
+
+### Revolutionary Steps in Fighting Hunger:
+- **Food entitlement**: Priority households receive five kilograms of wheat, rice, and millets per person each month at subsidized prices (Rs. 3/kg for wheat, Rs. 2/kg for rice, Rs. 1/kg for millets).
+- **Support for pregnant women**: Free meals and maternity benefits (up to Rs. 6,000) for pregnant women.
+- **Child nutritional care**: Free meals at anganwadis for children under six years old, and mid-day meals for children aged 6-14 in schools.
+- **Food security allowance**: Cash benefits in case of non-supply of food grains.
+
+### Challenges:
+- **Infrastructure issues**: Poor conditions in anganwadis, including inadequate sanitation, clean spaces, and staff, hinder the effective delivery of services.
+- **Storage limitations**: The Food Corporation of India faces inadequate storage facilities, leading to wastage and pilferage of food grains.
+- **Lack of awareness**: Many beneficiaries are unaware of their entitlements, such as those under the Antyodaya Anna Yojana or the One Nation One Ration Card plan, and migrants face difficulties accessing benefits.
+- **Exclusion of beneficiaries**: Aadhaar-based digitalization has led to exclusions due to technical issues like fingerprint mismatches.
+- **Nutrition deficiencies**: The provision of food grains alone does not address the broader need for a balanced, nutritious diet.
+- **Financial burden**: The cost of providing food to 67% of the population places a significant strain on the government budget.
+
+### Conclusion:
+To address these issues, the NFSA requires improvements in infrastructure, digital systems, and awareness campaigns. Incorporating nutritional security alongside food security is essential for achieving the Act's objectives.
+
+
+-------------------
