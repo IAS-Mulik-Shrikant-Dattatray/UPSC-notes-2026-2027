@@ -2,7 +2,7 @@
 
 
 
-**Introduction : **  
+**Introduction :**  
 
 
 A **buffer stock** system is a mechanism designed to stabilize agricultural prices by balancing the supply of food grains in the market. It involves the government purchasing and storing food during surplus harvests to prevent prices from falling below a target level, and releasing stocks during periods of scarcity to prevent prices from rising above a target range.
