@@ -243,3 +243,21 @@ India’s food security policies, especially its public stockholding programs an
 
 -----
 
+### Extra points : 
+
+# 1. The Scheme for Modernization and Reforms through Technology in Public Distribution System (SMART-PDS) has transformative potential beyond food security for India.Discuss.
+
+The **SMART-PDS** (Scheme for Modernization and Reforms through Technology in Public Distribution System) utilizes modern ICT and automation to transform India's PDS. It creates a national-level dashboard to monitor PDS operations using advanced technologies.
+
+### Role in Food Security:
+- **Timely food delivery**: SMART-PDS ensures the distribution of food grains to 800 million beneficiaries under the National Food Security Act (NFSA).
+- **Preventing leakages**: Smart ration cards, Aadhaar seeding, and automation help reduce corruption and leakage.
+- **Portability**: It allows beneficiaries to access food from any Fair Price Shop under the One Nation One Ration Card (ONORC) system.
+
+### Benefits Beyond Food Security:
+- **Data-driven decisions**: Data generated helps in understanding beneficiaries’ needs, migration patterns, and supporting other welfare schemes like Ayushman Bharat and PM-SVANidhi.
+- **Improved accountability**: Real-time monitoring through a national dashboard ensures better oversight of PDS operations.
+- **Efficient supply chain**: Integration of various PDS operations improves logistics and reduces wastage.
+- **Technology upgrades**: It addresses state-level technological gaps and standardizes PDS operations nationwide.
+
+In conclusion, SMART-PDS not only strengthens food security but also enhances government efficiency and welfare scheme delivery. Its timely implementation is crucial for sustainable reforms in India’s public distribution system.
