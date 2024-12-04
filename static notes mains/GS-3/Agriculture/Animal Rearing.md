@@ -110,4 +110,20 @@ According to the National Accounts Statistics 2019 by the Central Statistics Off
 
 ----
 
-5. govt initaitive :
+**5. Government Initiatives :**
+
+
+The government has introduced several schemes and plans to address these challenges.
+
+----
+
+**5.1. National Animal Disease Control Programme for FMD and Brucellosis :**  
+
+**Key Features :** 
+
+- The NADCP aims to control Foot and Mouth Disease (FMD) by 2025 and eradicate it by 2030, boosting domestic production and exports of milk and livestock products.  
+- An intensive Brucellosis Control program will manage the disease in both animals and humans.  
+- This is a Central Sector Scheme, with 100% funding from the Central Government to States/UTs.  
+- The mission mode approach for disease eradication is the largest such effort globally for animal and human vaccination.  
+
+----
