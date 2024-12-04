@@ -149,6 +149,8 @@ The government has introduced several schemes and plans to address these challen
 
 **5.3. Rashtriya Gokul Mission :** 
 
+![alt text](image-13.png)
+
 **Key Features**  
 
 - The Rashtriya Gokul Mission (RGM), launched in December 2014, focuses on the development and conservation of indigenous bovine breeds. It continues under the Rashtriya Pashudhan Vikas Yojna from 2021 to 2026.  
