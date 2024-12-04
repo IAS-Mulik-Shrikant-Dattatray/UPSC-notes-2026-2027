@@ -23,7 +23,7 @@ While the **Constitution of India** does not explicitly mention the right to foo
 
 Additionally, **Article 47** (Directive Principles of State Policy) directs the state to prioritize **raising nutrition levels**, improving the **standard of living**, and enhancing **public health** as part of its fundamental duties.
 
-
+note : Malnutrition is the silent assassin and is devastating to not just large swathes of the population but also to the nation's economy.
 -----
 
 **3. Qualitative and Quantitative Dimensions of Food Security**
@@ -364,3 +364,4 @@ To address these issues, the NFSA requires improvements in infrastructure, digit
 
 
 -------------------
+
