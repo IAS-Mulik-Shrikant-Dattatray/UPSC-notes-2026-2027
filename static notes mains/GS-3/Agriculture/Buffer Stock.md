@@ -7,7 +7,11 @@
 
 A **buffer stock** system is a mechanism designed to stabilize agricultural prices by balancing the supply of food grains in the market. It involves the government purchasing and storing food during surplus harvests to prevent prices from falling below a target level, and releasing stocks during periods of scarcity to prevent prices from rising above a target range.
 
-**Function of Buffer Stocks**  
+
+----- 
+
+**2. Function of Buffer Stocks**  
+
 - **Stabilizing Prices**: The main aim is to neutralize fluctuations in the production of crops, ensuring that prices remain stable regardless of seasonal variations.
 - **Surplus Production**: During periods of abundant harvest, the government procures crops from farmers at a **Minimum Support Price (MSP)** to prevent market prices from plummeting. This ensures that farmers benefit from their surplus production and do not face financial losses.
 - **Deficit Production**: During times of crop failure or shortages, the government releases these buffer stocks in a controlled manner. This ensures that consumers have access to food grains at affordable prices and prevents price hikes due to supply shortages. It also helps in maintaining food security and ensuring the availability of essential food grains for the population.  
@@ -16,7 +20,7 @@ The buffer stock system plays a crucial role in balancing the interests of both 
 
 ----
 
-**2. Buffer Stock Policy of India**
+**3. Buffer Stock Policy of India**
 
 The **buffer stock policy** in India was introduced during the **Fourth Five Year Plan (1969-74)**. Under this policy, a buffer stock of food grains is maintained by the **Food Corporation of India (FCI)** on behalf of the Government of India. The primary objective is to stabilize the prices of essential food grains by ensuring adequate supply during times of scarcity.
 
@@ -54,7 +58,7 @@ The buffer stock system is essential for preventing inflationary pressures on fo
 
 ----
 
-**3. Critical Evaluation of Buffer Stocks Policy in India**
+**4. Critical Evaluation of Buffer Stocks Policy in India**
 
 The buffer stock policy, while essential for stabilizing food prices and ensuring food security, has encountered several inefficiencies and challenges. Below is a critical evaluation of its shortcomings:
 
