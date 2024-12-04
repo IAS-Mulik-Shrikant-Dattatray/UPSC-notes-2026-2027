@@ -407,7 +407,7 @@ India's milk production must increase significantly to meet growing demand due t
 Extra : 
 
 
-**Livestock Farming and Climate Change: Overview**
+**1. Livestock Farming and Climate Change: Overview**
 
 **Role of Livestock in the Indian Economy:**
 Livestock farming is an integral part of India's agricultural economy, contributing significantly to the gross agricultural production value. It includes the rearing of animals such as cattle, goats, poultry, and horses for food and other human uses, including milk, meat, wool, and leather.
@@ -456,7 +456,7 @@ By implementing these strategies, livestock farming can become more sustainable 
 -----
 
 
-**Livestock-based Integrated Farming System (IFS): Overview**
+**2. Livestock-based Integrated Farming System (IFS): Overview**
 
 **Integrated Farming System (IFS):**
 IFS is an agricultural approach where multiple, interdependent, and often interrelated production systems (such as crops, animals, and subsidiary enterprises) are combined to maximize nutrient utilization and minimize environmental impact. It involves using the outputs from one system as inputs for another, creating a mutually beneficial cycle of production.
@@ -501,7 +501,7 @@ Livestock-based IFS is a sustainable, efficient, and profitable agricultural mod
 -----
 
 
-**Poor Quality and Inadequate Availability of Feeds and Fodder: Impact on Livestock Productivity in India**
+**3. Poor Quality and Inadequate Availability of Feeds and Fodder: Impact on Livestock Productivity in India**
 
 **Introduction:**
 Livestock plays a significant role in India's agricultural economy, with cattle, buffaloes, goats, and sheep being integral to rural livelihoods. However, despite the large livestock population, **productivity** in India remains low. For example, the average annual productivity of cattle in India is 1777 kg per animal, which is considerably lower than the global average of 2699 kg per animal per year. The main factors contributing to this low productivity are intrinsic issues like genetic limitations and extrinsic factors such as poor nutrition, poor feed management, ineffective veterinary care, and inadequate feed and fodder.
@@ -563,7 +563,7 @@ The poor quality and inadequate availability of feeds and fodder are major contr
 
 
 
-**Women’s Contribution to Livestock Rearing in India and the Issues They Face**
+**4. Women’s Contribution to Livestock Rearing in India and the Issues They Face**
 
 **Introduction:**
 The livestock sector plays a vital role in the rural economy of India, accounting for 5% of the national income and 28% of agricultural GDP as of 2018-19. In recent years, the sector has grown rapidly, with a growth rate of 7.9% over six years, compared to 2% growth in crop farming. Livestock provides a crucial source of income, especially for poor, landless, and marginal farmers. In this context, **women** play an indispensable role in livestock rearing, contributing not only to the household income but also to food security and nutrition.
@@ -616,7 +616,7 @@ Women play a critical role in livestock rearing in India, contributing significa
 ------
 
 
-**Re-Energising the Livestock Sector: A Key to Sustainable Livelihood and Increased Income for Indian Farmers**
+**5. Re-Energising the Livestock Sector: A Key to Sustainable Livelihood and Increased Income for Indian Farmers**
 
 **Introduction:**
 The **livestock sector** plays a crucial role in India's economy, contributing **4.11%** to the country's GDP and about **25.6%** to the agricultural GDP. According to the 20th **Livestock Census (2019)**, the livestock population has increased by **4.6%** compared to the 2012 census. Despite this growth, the sector faces several challenges that hinder its potential to become a sustainable source of livelihood and income for farmers in India. 
