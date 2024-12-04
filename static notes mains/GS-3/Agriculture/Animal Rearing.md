@@ -37,3 +37,15 @@ Livestock plays a vital role in farmers' economies, especially in India, where m
 
 ----
 
+
+![alt text](image-9.png)
+
+
+----
+
+![alt text](image-10.png)
+
+
+----
+
+
