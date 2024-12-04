@@ -128,3 +128,37 @@ The Standing Committee on Food, Consumer Affairs, and Public Distribution (2021)
 
 ----
 
+**1.6 One Nation One Ration Card (ONORC) Scheme**
+
+The One Nation, One Ration Card (ONORC) Scheme is a government initiative designed to improve the accessibility and portability of food security benefits under the Public Distribution System (PDS).
+
+**Key Features of ONORC:**
+
+1. **Portability of Ration Benefits**:
+   - **Interstate Portability**: Beneficiaries can access their food grain entitlements from any Fair Price Shop (FPS) across India, making it easier for migrant workers and their families to collect rations, regardless of their location.
+   - **Intrastate Portability**: Within a state, beneficiaries can choose any FPS to collect their rations, providing flexibility.
+
+2. **Aadhaar-Based Identification**:
+   - **Unified System**: Aadhaar, India's biometric identification system, is used to authenticate beneficiaries, reducing fraud and ensuring only eligible individuals receive benefits.
+   - **ePOS Devices**: Electronic Point of Sale (ePOS) devices at FPS verify beneficiaries through Aadhaar authentication, streamlining the process.
+
+3. **Digital Integration and Data Sharing**:
+   - **Centralized Data**: A central repository connects the digital systems of all states and Union Territories, enabling real-time data sharing and transaction monitoring.
+   - **Seamless Operations**: This integration ensures transparency and efficient tracking of food grain distribution and consumption.
+
+
+**Objectives of ONORC:**
+
+1. **Food Security for Migrants**: Ensures migrant workers and their families retain access to subsidized food grains, even when they move to different locations for work or other reasons.
+
+2. **Reduction in Exclusion and Leakages**: Standardizing and digitizing PDS operations helps minimize the exclusion of eligible beneficiaries and prevents food grain diversion or leakage.
+
+3. **Improved Efficiency and Accountability**: Digital tracking and monitoring systems enhance the efficiency of the PDS and increase accountability in the distribution process.
+
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+
+-----
