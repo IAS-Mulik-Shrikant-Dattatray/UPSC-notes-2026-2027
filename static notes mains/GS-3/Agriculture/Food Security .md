@@ -158,3 +158,36 @@ The **National Nutrition Mission** (NNM) is a flagship program led by the **Mini
 
 
 -------
+
+
+**3.4. National Food Security Act, 2013**
+
+The **National Food Security Act, 2013** marks a shift from a welfare-based to a **rights-based approach** to food security. It legally entitles **75%** of the rural population and **50%** of the urban population to receive subsidized food grains through the **Targeted Public Distribution System (TPDS)**, covering about **67%** of the total population.
+
+The Act aims to ensure **food and nutritional security** by providing access to adequate, affordable, and quality food for all citizens, supporting a life with dignity.
+
+**Key Features of the Act**:
+- **Coverage**: Up to **75%** of rural and **50%** of urban population is entitled to subsidized food grains under TPDS.
+- **Entitlements**: 
+  - **35 kg of foodgrains per month** for **Antyodaya Anna Yojana (AAY)** households.
+  - **5 kg per person per month** for **Priority Household (PHH)**.
+- **Identification of Beneficiaries**: Done by State/UT Governments, which set their own criteria.
+- **Head of Family**: The eldest woman (18+ years) in a household is considered the "Head of Family" for ration card issuance.
+
+**Food Security & Nutritional Security**:
+- The Act focuses on **food security** through expanded PDS, but achieving **nutritional security** depends on how households utilize the subsidized food.
+  
+**Impact of Cereal Subsidies**:
+
+![alt text](image-8.png)
+
+- **Income Effect**: Subsidized cereals free up money for households to purchase other nutritious foods like milk, fruits, and meat.
+- **Substitution Effect**: Savings from subsidized cereals may be used for other needs, potentially diverting funds from food expenditure.
+
+Though **communicable diseases** are still prevalent in India, **non-communicable diseases (NCDs)** like cardiovascular diseases, diabetes, and cancer are rising. The consumption of processed and refined foods is increasing, contributing to the rise in NCDs. Interestingly, increasing incomes have not improved diets, as people often abandon healthier foods like small millets in favor of processed ones.
+
+
+
+-----
+
+
