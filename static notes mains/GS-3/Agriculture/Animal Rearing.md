@@ -213,3 +213,26 @@ The government has introduced several schemes and plans to address these challen
 
 
 -----
+
+
+**5.7. National Programme for Dairy Development (NPDD):**  
+
+**Key Features**  
+
+- The NPDD aims to improve milk quality and increase the share of organized milk procurement.  
+- **Components:**  
+  - **Component A:** Focuses on creating or strengthening infrastructure for quality milk testing equipment and primary chilling facilities for State Cooperative Dairy Federations, District Cooperative Milk Producers' Unions, SHGs, private dairies, Milk Producer Companies, and Farmer Producer Organisations.  
+  - **Component B:** Provides financial assistance through the Japan International Cooperation Agency (JICA) as per an existing project agreement.
+
+
+----
+
+**5.8. Dairy Processing & Infrastructure Development Fund (DIDF):**  
+
+**Key Features:**
+
+- Announced in the Union Budget 2017-18, the DIDF has a corpus of Rs. 8,004 crores, managed by NABARD.  
+- The scheme aims to modernize milk processing plants and machinery, and create additional infrastructure to process more milk.
+
+----
+
