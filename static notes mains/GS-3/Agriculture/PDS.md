@@ -106,3 +106,25 @@ Launched in 1997, the Targeted Public Distribution System (TPDS) aims to provide
 5. **One Nation One Ration Card (ONORC) Scheme**: This initiative allows beneficiaries to access their PDS entitlements from any FPS across the country, enhancing food security for migrants and mobile populations. The scheme has been implemented in all states and Union Territories as of mid-2023.
 
 ----
+
+**1.5 Reforms Required for Revamping India’s PDS**
+
+The Standing Committee on Food, Consumer Affairs, and Public Distribution (2021) made the following recommendations:
+
+1. **Ensure Implementation of ONORC**: The Committee noted that State Vigilance Committees, which monitor ONORC and PDS, do not meet regularly. It recommended that the central government’s Department of Food and Public Distribution should oversee the implementation in states.
+
+2. **Identification and Targeting of Beneficiaries**: The Committee observed that some states, like West Bengal, have not initiated biometric authentication of beneficiaries at FPSs. It suggested focusing on districts with high numbers of migrant workers to ensure better food grain distribution.
+
+3. **Technical Difficulties and Compatibility**: The Committee highlighted that 13,000 FPSs face chronic internet connectivity issues. It recommended developing a device or mobile app for FPS dealers in such areas to record transactions offline and later upload them to a centralized ePoS server.
+
+4. **Movement of Food Grains**: The FCI manages the movement of food grains from surplus to deficit regions, based on FPS dealers' demands. The Committee recommended issuing broad, uniform guidelines across states for timely communication of food grain requirements from FPS dealers.
+
+5. **Direct Benefit Transfer (DBT)**: While DBT helps reduce administrative costs, the Committee noted that beneficiaries incur higher costs due to:
+   - Multiple visits to ensure transfers,
+   - Longer waiting times for cash withdrawal, and
+   - Limited availability of food grains in the open market.
+   It recommended using direct cash transfers in suitable cases while retaining PDS infrastructure, particularly for migrant beneficiaries.
+
+
+----
+
