@@ -147,3 +147,17 @@ The government has introduced several schemes and plans to address these challen
 -----
 
 
+**5.3. Rashtriya Gokul Mission :** 
+
+**Key Features**  
+
+- The Rashtriya Gokul Mission (RGM), launched in December 2014, focuses on the development and conservation of indigenous bovine breeds. It continues under the Rashtriya Pashudhan Vikas Yojna from 2021 to 2026.  
+- **Objectives:**  
+  - Enhance bovine productivity and milk production using advanced technologies.  
+  - Promote the use of high genetic merit bulls for breeding.  
+  - Increase Artificial Insemination coverage by strengthening the breeding network and providing services at farmers' doorsteps.  
+  - Support scientific and holistic conservation of indigenous cattle and buffalo.  
+
+
+----
+
