@@ -319,3 +319,25 @@ The policy aims to create an ecologically sustainable, economically viable, and 
 -----
 
 
+**Pradhan Mantri Matsya Sampada Yojana (PMMSY): Overview**
+
+**Introduction:**
+Launched in September 2020 by PM Narendra Modi, the scheme aims to boost fish production to 220 lakh metric tons by 2024-25, up from 137.58 lakh metric tons in 2018-19, with an annual growth rate of about 9%.
+
+**Objectives:**
+1. Increase fish production by 70 lakh metric tons by 2024-25.
+2. Boost fisheries export earnings to Rs. 1,00,000 crores.
+3. Double the incomes of fishers and fish farmers.
+4. Reduce post-harvest losses from 20-25% to about 10%.
+5. Create 55 lakh direct and indirect employment opportunities in the fisheries sector.
+6. **PM-MKSSY Sub-scheme:** Aimed at supporting micro and small enterprises in the fisheries sector, with an investment of ₹6,000 crore over the next four years.
+
+
+![alt text](image-17.png)
+
+-----
+
+
+
+
+
