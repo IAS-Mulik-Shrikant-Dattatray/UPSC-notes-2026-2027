@@ -127,3 +127,23 @@ The government has introduced several schemes and plans to address these challen
 - The mission mode approach for disease eradication is the largest such effort globally for animal and human vaccination.  
 
 ----
+
+
+**5.2. National Livestock Mission**
+
+**Key Features:**
+
+- **Focus Areas:**  
+  - Entrepreneurship development  
+  - Breed improvement in poultry, sheep, goats, and pigs, along with feed and fodder development.  
+- **Sub-Missions:**  
+  - Breed Development of Livestock and Poultry  
+  - Feed and Fodder Development  
+  - Innovation and Extension
+
+![alt text](image-12.png)
+
+
+-----
+
+
