@@ -67,4 +67,35 @@ The food processing industry in India is crucial for the economy, offering emplo
 
 -----
 
+**4.1. Upstream and Downstream Requirements**  
+
+**Upstream Operations**  
+Upstream operations refer to the initial stages of the supply chain, where raw materials are sourced, acquired, and transported to manufacturing facilities. Key activities include supplier selection, procurement, and inventory management. Efficient upstream operations ensure a continuous and reliable supply of raw materials.
+
+**Upstream Requirements**:
+- Accessibility to raw materials
+- Modern extraction techniques
+- Strong linkages with farmers
+- Storage facilities for materials like grains, meat, and fish
+- Quality testing facilities
+- Transport facilities
+- Skilled workforce
+
+---
+
+**Downstream Operations**  
+Downstream operations involve the final stages of the supply chain, where finished products are distributed to customers. Activities include warehousing, transportation, and order fulfillment. Efficient downstream operations are crucial for timely delivery, customer satisfaction, and maintaining a competitive market edge.
+
+**Downstream Requirements**:
+- Latest processing techniques and machinery
+- Quality testing facilities
+- Organized retail stores for efficient distribution
+- Skilled workforce
+
+
+
+![alt text](image-20.png)
+
+-----
+
 
