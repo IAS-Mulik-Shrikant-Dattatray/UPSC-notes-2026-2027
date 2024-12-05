@@ -761,3 +761,45 @@ The NITI Aayog's Draft Model Act on Conclusive Land Titling (2019) is also under
 ------
 
 
+**3. Do you agree that high economic growth in the post-reform period has not resulted in growth trickling down to the marginalised sections, rendering inclusive growth a major concern? Justify your answer.**
+
+
+Since the 1991 economic reforms, India has experienced impressive growth. The GDP surged from $270 billion in 1991 to $3.2 trillion in 2021, and per capita income grew at an 11.2% annual rate between 1991 and 2019. Despite this growth, poor inclusive growth remains a significant issue:
+
+**Concerns about Inclusive Growth:**
+- **Economic Inequality**: India is one of the fastest-growing economies, but also one of the most unequal. The top 10% of the population holds 77% of the nation's wealth (Oxfam report).
+- **Jobless Growth**: Despite economic growth, job creation has been minimal. Employment grew by only 1.04% annually from 1991 to 2017, with many still in low-income jobs in agriculture and the informal sector.
+- **Low Human Development**: India ranked 132nd on the UNDP's Human Development Index (HDI) in 2021, with an average score of 0.633, below the global average of 0.732.
+- **Multidimensional Poverty**: Around 16.4% of the population lives in multidimensional poverty, with 18.7% at risk, highlighting ongoing economic exclusion.
+- **Limited Upward Mobility**: Despite liberalization, opportunities for upward mobility remain limited for disadvantaged groups based on gender, caste, and religion.
+- **Children’s Well-being**: The National Family Health Survey (NFHS-5) found that 35.5% of children are stunted, 19.3% are wasted, and 32.1% are underweight.
+- **Gender Inequality**: Women's household responsibilities reduce their participation in the labor market. India ranked 135th out of 146 countries in the 2022 Global Gender Gap Index.
+
+**Recommendation**: To foster inclusive growth, India must prioritize investments in primary and vocational education, health infrastructure, job creation, and financial services. In agricultural states, establishing local industries, processing units, and improving infrastructure like storage and transportation can also promote inclusive growth.
+
+
+-----
+
+
+**4. Examine the relation between health and poverty. Discuss how inclusive healthcare can ensure inclusive growth for India.**
+
+In recent years, India has reduced its multidimensional poverty from 24.85% in 2015-16 to 14.96% in 2019-2021. It has also decreased out-of-pocket expenditure (OOPE) from 62.6% in 2014-15 to 47.1% in 2019-20. However, India still has one of the highest poverty rates in the world.
+
+**The Relationship Between Health and Poverty:**
+- **Ill Health and Poverty**: Poor health reduces productivity and limits economic opportunities, which perpetuates poverty. With only 2.1% of GDP spent on public health, many households face catastrophic health expenses, impoverishing over 55 million people annually.
+- **Poverty and Ill Health**: Poverty often limits access to clean water, sanitation, and nutritious food, increasing the risk of diseases and chronic health issues, which further entrench poverty.
+
+**Inclusive Healthcare for Inclusive Growth:**
+- **Reduction of Inequality**: Affordable healthcare helps reduce inequality, especially for marginalized groups like Dalits and Tribals, by lowering OOPE and stabilizing long-term consumption.
+  - Example: The Affordable Care Act in the USA reduced income inequality between racial/ethnic groups.
+- **Empowering Women**: Access to maternal and reproductive healthcare enhances women’s workforce participation and decision-making power.
+  - Example: In the Nordic region, comprehensive healthcare services for women have helped achieve a high employment rate of 73.5%.
+- **Balanced Regional Development**: Inclusive healthcare can bridge rural-urban disparities, fostering balanced development.
+  - Example: Kerala’s emphasis on inclusive healthcare has contributed to its inclusive growth.
+- **Children's Progress**: Addressing malnutrition and diseases improves children’s education and future earning potential. Stunted children earn 20% less as adults.
+- **Reducing Employment Barriers**: Healthcare access can support individuals with disabilities, improving their employment prospects and contributing to inclusive growth.
+
+To meet SDG 3, India is increasing its healthcare spending, particularly through the Ayushman Bharat Scheme, to promote inclusive growth.
+
+
+------
