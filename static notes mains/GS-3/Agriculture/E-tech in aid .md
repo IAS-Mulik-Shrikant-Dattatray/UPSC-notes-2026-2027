@@ -155,3 +155,38 @@ The **Crop Insurance Mobile App**, developed under the Digital India initiative,
 
 ----
 
+**4.6 National Agriculture Market (e-NAM)**
+
+The **e-NAM** is a pan-India electronic trading platform designed to connect APMCs and market yards, creating a unified national market for agricultural commodities. Key features include:
+
+- **Logistics Support**: Provides cost-effective and timely logistics for farmers.
+- **Middleman Reduction**: Increases farmer profit margins by directly connecting them with institutional buyers.
+- **Market Rates**: Helps farmers find the best prices by comparing nearby mandis and booking the cheapest freight vehicles.
+- **Single Platform**: Serves as a hub for farmers, mandi dealers, and truckers to optimize their operations and connect more efficiently.
+- **Direct Purchase**: Facilitates direct transactions between farmers and buyers.
+
+![alt text](image-29.png)
+
+
+**Mission & Objectives:**
+
+- **Uniform Market Procedures**: Streamlines procedures across markets, reduces information asymmetry, and enables real-time price discovery based on demand and supply.
+- **APMC Integration**: Integrates APMCs nationwide through a common platform to support pan-India trade, transparent auctions, and timely online payments.
+
+**Key Modules:**
+
+- **e-NWRs Integration**: Allows small farmers to trade stored produce directly from registered warehouses.
+- **FPO Module**: Enables Farmer Producers' Organizations (FPOs) to upload produce details for remote bidding.
+- **Logistics Module**: Links large logistics platforms, enhancing transportation options for inter-state trade.
+
+**Benefits:**
+
+- **Efficiency & Transparency**: Improves mandi operations, reduces costs, and enhances market access.
+- **Expanded Market Access**: Provides more options for farmers and local traders through warehouse sales and secondary trading.
+- **Reduced Intermediation Costs**: Lowers costs for bulk buyers, processors, and exporters.
+- **Price Stability**: Leads to better returns for farmers, lower transaction costs for buyers, and stable prices for consumers.
+
+As of March 16, 2023, 1,361 mandis across 23 states and 4 UTs have been integrated with the e-NAM platform.
+
+
+-------
