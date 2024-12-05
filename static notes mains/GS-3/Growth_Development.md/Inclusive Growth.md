@@ -70,3 +70,33 @@ Inclusive growth is crucial for India to address key challenges, particularly po
 ![alt text](image-4.png)
 
 ----
+
+
+**3.2. Inequality**
+
+
+**Inequality in India**
+
+Inequality in India has worsened since the 1980s, particularly accelerating after the early 2000s. Between 2014-15 and 2022-23, wealth concentration at the top end increased significantly.
+
+- **Income and Wealth Inequality**: 
+  - India’s income and wealth inequality is among the highest globally. In 2022-23, the top 1% held 22.6% of the income and 40.1% of the wealth, while the bottom 50% earned only 15% of the national income, down from 20.6% in 1951.
+  
+- **Social Inequality**: 
+  - Gender and caste-based inequities are prominent. For instance, male workers earn significantly more than female workers across different employment types. 
+  - **Periodic Labour Force Survey (2019-2023)**: In 2023, male self-employed workers earned 2.8 times more than women, and male casual workers earned 48% more.
+
+- **Emerging Inequalities**: 
+  - Inequalities are deepening due to the climate crisis and technological advancements. For example, countries with high human development are seeing faster growth in tertiary education compared to low human development nations.
+
+**Consequences of Inequality**:
+
+- **Low Social Mobility**: Extreme inequality limits social mobility, making it harder for children from poor families to escape poverty due to lack of education, skills, and assets.
+- **Democratic Undermining**: High inequality fosters corruption, cronyism, and social unrest, and may fuel authoritarianism.
+- **Climate Crisis Impact**: Poorer communities are less equipped to handle climate change, and income inequality can hinder the spread of eco-friendly technologies.
+- **Political Inequality**: Economic inequality often translates into political power imbalances, weakening institutional effectiveness and policy implementation.
+
+To reduce inequality, there is a need for better access to health, education, financial inclusion, and equal opportunities for all.
+
+
+----
