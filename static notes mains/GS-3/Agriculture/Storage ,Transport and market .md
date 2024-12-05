@@ -159,3 +159,33 @@ In summary, these schemes focus on improving storage infrastructure, enhancing s
 
 
 
+**Schemes Targeting Cold Storage in India: Summary**
+
+1. **PM Kisan Sampada Yojana (PMKSY)**:  
+   Supports the development of cold storage, packaging units, and warehousing.  
+   - The Integrated Cold Chain and Value Addition Infrastructure scheme promotes uninterrupted cold chain facilities from farm to consumer, reducing losses and improving efficiency.  
+   - Both horticultural and non-horticultural produce are eligible.  
+   - As of December 2022, 8.38 lakh MT of cold storage capacity has been created.
+
+2. **Mission for Integrated Development of Horticulture (MIDH)**:  
+   Provides financial assistance for constructing, expanding, or modernizing cold storage facilities (up to 5000 MT capacity) to support horticulture.
+
+3. **Capital Investment Subsidy Scheme for Cold Storage**:  
+   Offers a 35% subsidy on capital costs for cold storage projects (and 50% in North East, hilly, and scheduled areas) for facilities with a capacity between 5000 MT and 10,000 MT.
+
+4. **Pradhan Mantri Matsya Sampada Yojana**:  
+   Focuses on improving fish production, productivity, and cold chain infrastructure.  
+   - Aims to boost fish production to 22 million MT, increase exports to INR 1 lakh Cr, and create 55 lakh jobs by 2024-25.
+
+5. **Priority Sector Lending**:  
+   Provides loans for building cold storage units and cold storage chains for agricultural products, regardless of location.
+
+6. **Integrated Cold Chain Availability Platform**:  
+   A national database to link cold chain assets and promote collaboration between cold chain owners.  
+   - A joint initiative involving multiple organizations such as the National Horticulture Board and Ministry of Food Processing Industries.
+
+In summary, these schemes focus on enhancing cold storage infrastructure, improving efficiency in the agricultural and fishery sectors, and reducing post-harvest losses across India.
+
+
+------
+
