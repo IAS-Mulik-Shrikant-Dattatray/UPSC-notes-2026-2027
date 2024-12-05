@@ -197,6 +197,9 @@ The **Seednet India Portal** is a national initiative by the Union Ministry of A
 - Information on seed sector aspects like quality control, seed replacement rate, seed multiplication ratio, and types of seeds (breeder, foundation, certified).
 - Details on seed varieties, seed banks, seed testing labs, dealers, certification agencies, and more.
 
+
+-----
+
 **4.8 DACNET**  
 **DACNET** is an initiative by the Department of Agriculture and Cooperation (DAC), Ministry of Agriculture, aimed at leveraging information technology to improve governance and service delivery. Key benefits of DACNET include:
 
