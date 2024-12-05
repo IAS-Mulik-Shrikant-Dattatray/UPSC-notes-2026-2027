@@ -334,7 +334,7 @@ To support the growth of the food processing sector, the government has implemen
 ------
 
 
-### 8 Schemes related to Food Processing Industries: 
+### 8. Schemes related to Food Processing Industries: 
 
 
 
