@@ -391,3 +391,27 @@ In conclusion, increasing insurance coverage in India requires improving awarene
 -----
 
 
+**7.4 Transformation of Aspirational Districts (TAD) Summary**
+
+The Transformation of Aspirational Districts (TAD) program aims to quickly transform 112 districts across India, with at least one district from each state (excluding Goa). The program is led by NITI Aayog, in collaboration with state governments.
+
+**Key Features of the Program:**
+- **Convergence:** Integration of Central and State schemes.
+- **Collaboration:** Involvement of Central and State officers (Prabhari officers) and district collectors.
+- **Competition:** Districts are ranked based on real-time data, encouraging competition and progress.
+
+**Focus Areas:**
+- The program identifies each district’s strengths and targets immediate improvements by focusing on achievable goals.
+- Key Performance Indicators (KPIs) are district-specific, monitored and ranked annually.
+- **District Teams:** Each district forms a team to prepare a baseline report and set year-wise targets based on available resources.
+- **Regular Monitoring:** Central officers visit districts every two months to prepare reports for NITI Aayog, which reviews and submits findings to the Empowered Committee of Secretaries.
+
+**Sankalp Saptaah & Aspirational Blocks Programme (ABP):**
+- **Sankalp Saptaah:** Launched on January 7, 2023, to improve governance at the block level, enhancing the quality of life in 500 Aspirational Blocks across 329 districts.
+- **Chintan Shivirs:** Organized at village and block levels to develop block-level strategies.
+- **Themes of the Week:** The first six days focus on health, family nutrition, cleanliness, agriculture, education, and prosperity.
+- **Celebration:** The final day of the week, October 9, 2023, celebrates the progress made, marking the conclusion of the ‘Sankalp Saptaah.’
+
+In summary, the TAD program focuses on improving districts by leveraging convergence, collaboration, and competition, with ongoing monitoring and targeted interventions, while the Sankalp Saptaah aims to enhance block-level governance and quality of life.
+
+-----
