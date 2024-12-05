@@ -736,3 +736,28 @@ The government has introduced schemes like SFURTI, ASPIRE, Credit Guarantee Fund
 
 
 -----
+
+
+**2. Access to land and effective control over it are crucial for inclusive growth and poverty eradication in India. Elaborate. Also, discuss the land reform measures adopted in India in recent times to ensure inclusive growth.**
+
+In India, landlessness remains a significant issue. According to the 2011 Socio-Economic Caste Census, 56.41% of rural households were landless. The 2013 Draft National Land Reforms Policy also noted that 31% of households have no land. 
+
+**Importance of Access to Land for Inclusive Growth:**
+- **Poverty Reduction**: With 54.6% of India’s workforce in agriculture, secure land rights incentivize investment, provide better credit access, and offer a safety net during shocks. Land ownership can also break the cycle of inter-generational poverty by enabling investments in children's development.
+- **Inclusive Growth**: Land ownership creates income-generating opportunities, empowering women and marginalized groups by providing security, a stronger voice, and protection against economic and environmental risks.
+
+**Recent Land Reforms in India:**
+India has introduced several measures to improve land access:
+- **Digital India Land Record Modernisation Program (DILRMP)** (2016): Aimed at updating land records, digitizing surveys, and resolving disputes.
+- **Unique Land Parcel Identification Number (ULPIN)** (2021): Provides a 14-digit ID for each land parcel to ensure accurate land records.
+- **SVAMITVA Scheme** (2020): Uses modern tech to map rural residential land and issue property cards to recognized owners.
+- **LARR Act** (2013): Ensures fair compensation, transparency, and rehabilitation for those displaced by land acquisition.
+- **Model Agricultural Land Leasing Act** (2016): Recognizes tenant farmers and improves their access to institutional credit.
+- **Model Contract Farming Act** (2018): Protects farmers’ rights and limits land rights transfer in contract farming.
+
+The NITI Aayog's Draft Model Act on Conclusive Land Titling (2019) is also under discussion. As land reforms are a state subject, their success depends on state-level implementation, with Karnataka’s Bhoomi project serving as a successful example for wider adoption.
+
+
+------
+
+
