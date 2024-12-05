@@ -153,7 +153,7 @@ Addressing these challenges is crucial for fostering inclusive growth and improv
 -----
 
 
-**Inclusive Growth and Human Capital Formation in India**
+**5. Inclusive Growth and Human Capital Formation in India**
 
 Human capital refers to the economic value of a worker's skills and abilities, emphasizing that not all labor is equal. It can be improved through investments in education, job training, health, and awareness. Human capital is essential for a country's growth, development, and competitiveness, but it can depreciate due to long unemployment, mental decline, or failure to adapt to new innovations. It is also mobile, potentially causing brain drain.
 
