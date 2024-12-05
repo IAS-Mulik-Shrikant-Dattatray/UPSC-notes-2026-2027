@@ -21,3 +21,15 @@ While there is no universal definition globally, the UNDP sees it as a process w
 Thus, inclusive growth is viewed in different ways depending on the agency, but all emphasize equitable participation and benefits.
 
 -----
+
+
+**2. Dimensions of Inclusive Growth**
+
+Inclusive growth is a pro-poor growth strategy where the poor not only benefit from economic growth but also actively participate in it. Key dimensions include:
+
+- **Interdependence**: It acknowledges the connections between growth, gender, poverty, and the environment. These factors are integral to achieving inclusive growth.
+
+![alt text](image.png)
+
+
+----
