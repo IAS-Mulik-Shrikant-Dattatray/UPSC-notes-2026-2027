@@ -41,7 +41,7 @@ Inclusive growth is a pro-poor growth strategy where the poor not only benefit f
 Inclusive growth is crucial for India to address key challenges, particularly poverty. 
 
 
-### 3.1 Poverty : 
+**3.1 Poverty :** 
 
 - **Poverty Reduction**: According to NITI Aayog, India has made significant progress in reducing multidimensional poverty, from 29.17% in 2013-14 to 11.28% in 2022-23, lifting 24.82 crore people out of poverty. India is likely to meet its SDG target of halving poverty before 2030. However, economic growth alone hasn't guaranteed inclusive growth, highlighting the need for policies beyond growth promotion.
 
