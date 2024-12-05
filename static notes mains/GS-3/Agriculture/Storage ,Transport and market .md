@@ -451,3 +451,25 @@ The **Model APMC Act, 2003**:
 -----
 
 
+**Model Agricultural Produce and Livestock Marketing (Promotion & Facilitation) Act, 2017**
+
+The Government of India introduced the **Agricultural Produce and Livestock Marketing (Promotion & Facilitation) Act, 2017** to replace the **Agriculture Produce Markets Committee Act, 2003**.
+
+**Objectives**:
+- Create a unified agri-market for trading both agricultural produce and livestock with a single license.
+- Ensure better price realization for farmers.
+- Aim to double farmers' income by 2022.
+
+**Major Provisions**:
+- A single fee for intra-state trade.
+- Traders can sell perishable goods like fruits and vegetables outside existing mandis.
+- The law proposes a cap on market fees and commission charges:
+  - 2% for fruits and vegetables
+  - 1% for food grains
+- Warehouses and cold storage facilities will be regulated as markets.
+- Regulatory powers will be transferred to the Director of Agricultural Marketing in the state, who will issue licenses to traders and private players.
+- Farmers can directly sell their produce to bulk buyers.
+
+
+-----
+
