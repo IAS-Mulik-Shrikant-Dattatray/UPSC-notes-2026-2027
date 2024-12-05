@@ -507,3 +507,32 @@ The Government of India introduced the **Agricultural Produce and Livestock Mark
 
 
 ------
+
+
+**3.6.6. Other Government Measures to Improve Agricultural Marketing in India**
+
+1. **e-NAM (National Agriculture Market)**:
+   - Launched in 2016 to enable farmers to sell produce to a wide range of buyers across multiple markets electronically.
+   - Aims to create a "One Nation, One Market" for agricultural commodities.
+   - 1361 APMC mandis have registered, with 365 actively trading online.
+   - Provides transparency, better price discovery, access to more markets, real-time price information, and faster payments.
+
+2. **AGMARKNET**:
+   - A G2C e-governance portal providing agricultural marketing-related information to stakeholders, including farmers, industries, policymakers, and academic institutions.
+
+3. **Gramin Agricultural Markets (GrAMs)**:
+   - Efforts to upgrade 22,000 rural haats into GrAMs, linking them to e-NAM while keeping them outside the APMC Act.
+
+4. **Scheme for Formation and Promotion of Farmer Produce Organizations (FPOs)**:
+   - Aims to create 10,000 FPOs between 2019-2024, providing support and handholding to each FPO.
+
+5. **Agriculture Infrastructure Fund (AIF)**:
+   - A Rs. 1,00,000 crore scheme to provide loans for investments in post-harvest infrastructure like warehousing and community farming assets, with interest subvention and financial support.
+
+6. **Agricultural Marketing Infrastructure (AMI)**:
+   - Part of the Integrated Scheme for Agricultural Marketing (ISAM), this scheme provides subsidies for constructing warehouses in rural areas to enhance storage capacity for agricultural produce. 
+   - Government offers 25%-33.33% subsidy based on beneficiary categories.
+
+
+
+----
