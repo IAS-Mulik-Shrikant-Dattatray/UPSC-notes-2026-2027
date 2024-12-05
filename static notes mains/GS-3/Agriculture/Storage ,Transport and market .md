@@ -306,7 +306,7 @@ Transit losses in food grain transportation have significantly reduced due to im
 ### 3. Marketing :
 
 
-**Agricultural Marketing Overview**
+**3.1. Agricultural Marketing Overview**
 
 Agricultural marketing involves the buying, selling, and movement of farm products from farms to consumers. It includes activities, agencies, and policies related to the procurement of farm inputs and the distribution of produce. The Indian Council of Agricultural Research identifies three main functions in agricultural marketing:
 
