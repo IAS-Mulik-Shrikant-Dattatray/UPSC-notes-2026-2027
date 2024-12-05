@@ -24,6 +24,11 @@ Storage and warehousing play a crucial role in preserving agricultural produce f
 
 Efficient storage and warehousing systems are essential to reduce post-harvest losses, ensure food availability throughout the year, and support food security. Developing such infrastructure is key to improving the agricultural supply chain and reducing waste.
 
+
+![alt text](image-32.png)
+
+
+
 --- 
 
 
