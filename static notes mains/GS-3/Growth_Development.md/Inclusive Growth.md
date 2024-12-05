@@ -530,3 +530,65 @@ CSR has become a critical tool for businesses to contribute to national developm
 
 
 -----
+
+
+**7.10 Reforms in MGNREGA Summary**
+
+The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a flagship rural employment program aimed at providing employment opportunities to rural households. Recent reforms in the MGNREGA scheme have focused on improving wage payments, creating durable assets, and addressing challenges such as low wages and underemployment.
+
+### **Key Reforms and Benefits:**
+
+1. **Linking Wages to Inflation (CPI-Rural):**
+   - The government plans to link MGNREGA wages to an updated inflation index (CPI-Rural), which will be revised annually to adjust wages in line with inflation.
+
+2. **Transparency and Payment Reforms:**
+   - 100% geo-tagging of assets, AADHAAR linking of bank accounts, IT/DBT transfers for wages, and material payments.
+   - Geographic Information System (GIS)-based planning for better project monitoring.
+
+3. **Durable Asset Creation:**
+   - **60:40 Wage-Material Ratio Shift:** The wage-material ratio was previously set at the Gram Panchayat level, often leading to the creation of non-productive assets. It has now been shifted to the district level, allowing flexibility for more productive assets.
+   - Focus on creating community and individual beneficiary assets like farm ponds, dairy sheds, Anganwadi Centers (AWCs), and solid waste management infrastructure. These assets have improved livelihoods and infrastructure in rural areas.
+
+4. **Water Conservation Mission:**
+   - Special focus on areas with falling groundwater levels through the Mission Water Conservation Guidelines (2015-16).
+   - Collaboration with the Central Ground Water Board for technical support and the rollout of the Barefoot Technicians program to enhance technical supervision of water conservation projects.
+
+### **Challenges Associated with MGNREGA:**
+
+1. **Low Wages:**
+   - The national average wage for MGNREGA workers is ₹178.44 per day, which is below the national minimum wage (₹375 per day).
+   - Wage disparity exists across states, with some paying higher wages (₹375/day) and others paying much lower (e.g., Uttar Pradesh at ₹182/day).
+
+2. **Wage Revision Method:**
+   - MGNREGA wages are linked to the Consumer Price Index for Agriculture Labour (CPI-AL), which is considered problematic and not aligned with broader inflation trends.
+
+3. **Underemployment:**
+   - The average number of days of employment provided per household is relatively low (around 50 days per year), indicating underemployment.
+
+4. **Administrative Challenges:**
+   - Workers are penalized for administrative lapses, such as delayed submission of fund statements or other documents, which leads to withheld wages.
+
+5. **Centralization Weakening Local Governance:**
+   - The shift to a centralized payment and real-time monitoring system has reduced the role of Panchayati Raj Institutions in implementation, monitoring, and grievance redressal.
+
+### **Initiatives to Streamline MGNREGA:**
+
+1. **NREGAsoft:**
+   - An e-Governance system that enables rural workers to access essential documents like muster rolls and job cards in local languages, improving transparency and efficiency.
+
+2. **GeoMGNREGA:**
+   - Uses space technology for geo-tagging assets created under MGNREGA, enabling online tracking and monitoring of project progress.
+
+3. **Mobile Apps for Increased Accountability:**
+   - Apps like Gram Samvaad and JanMnREGA provide rural citizens with direct access to information, improving accountability and enabling citizens to track assets and report issues.
+
+4. **Project LIFE-MGNREGA:**
+   - The "Livelihood In Full Employment" project aims to enhance the skill base of MGNREGA workers, helping them transition from partial to full employment and increasing self-reliance.
+
+### **Conclusion:**
+MGNREGA reforms focus on improving transparency, accountability, and the creation of durable, income-generating assets. However, challenges like low wages, underemployment, and centralization persist. Initiatives like digital platforms, skill-building projects, and revised wage structures are steps toward improving the program's effectiveness in providing meaningful rural employment.
+
+
+-----
+
+
