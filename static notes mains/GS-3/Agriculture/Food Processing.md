@@ -222,8 +222,72 @@ The food processing market in India is a rapidly growing industry with significa
 ![alt text](image-24.png)
 
 
+### Structural Issues in Food Processing Industry:
 
-**7. Challenges Faced by the Food Processing Industry in India**  
+1. **Access to Financing**  
+   Difficulty in getting loans or funds to improve facilities and processes.
+
+2. **Economics**  
+   High costs and low returns make it hard to sustain the business.
+
+3. **Demographics**  
+   Limited skilled labor and workforce for the industry.
+
+4. **Policies and Regulations**  
+   Complicated rules and lack of clear guidelines hinder growth.
+
+5. **Climatic Conditions**  
+   Weather changes and poor storage lead to spoilage.
+
+---
+
+### Technological Challenges:
+
+1. **Poor Infrastructure**  
+   Lack of modern facilities for production and storage.  
+
+2. **Inadequate Equipment**  
+   Use of outdated machinery reduces efficiency.  
+
+3. **Suboptimal Packaging**  
+   Poor packaging leads to spoilage and lower shelf life.
+
+---
+
+### Managerial Challenges:
+
+1. **Inadequate Skills and Practices**  
+   Lack of knowledge about modern food processing methods.  
+
+2. **Inflexible Procurement**  
+   Strict and outdated buying processes slow operations.  
+
+3. **Poor Supply/Demand Planning**  
+   Failing to match supply with market demand causes losses.  
+
+4. **Weak Marketing Strategies**  
+   Poor promotion reduces sales and limits reach.
+
+---
+
+### Behavioral Challenges:
+
+1. **Lack of Awareness**  
+   People don't know the benefits of processed food.  
+
+2. **Norms and Attitudes**  
+   Resistance to new techniques and habits.  
+
+3. **Concerns About Risks**  
+   Fear of adopting new processes due to potential failure.  
+
+---
+
+### Overall Impact:  
+These challenges cause food wastage, reduce quality, and discourage buyers, hurting the industry.
+
+
+------
 
 The food processing industry in India faces several challenges that hinder its growth and efficiency:
 
