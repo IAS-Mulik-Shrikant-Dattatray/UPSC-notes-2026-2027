@@ -258,7 +258,7 @@ In summary, transit losses have decreased significantly due to improved processe
    - **Data/Fact**: Transport units like **freezer trucks** and **reefer containers** are essential for keeping perishable goods fresh, but their high cost limits accessibility. The cost of such equipment could be mitigated with financial support to small-scale farmers, which would reduce distress sales and prevent loss during transportation.
 
 2. **Enhanced Technology and Automation**:
-   - **Problem**: Pilferage, inefficiency in loading/unloading, and the lack of coordination between stakeholders lead to transit losses.
+   - **Problem**: Pilferage(thieft), inefficiency in loading/unloading, and the lack of coordination between stakeholders lead to transit losses.
    - **Solution**: 
      - **AI-driven tracking systems**: Implement AI-based monitoring systems to track the real-time status of shipments, preventing pilferage and ensuring safe delivery.
      - Automated loading and unloading systems can also reduce human error, improve efficiency, and make the process more accountable.
