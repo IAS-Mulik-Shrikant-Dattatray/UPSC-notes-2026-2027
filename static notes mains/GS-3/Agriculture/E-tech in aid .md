@@ -262,3 +262,29 @@ eSagu is a personalized agro-advisory system developed by IIIT Hyderabad, provid
 
 
 -------
+
+
+**6. Weather-based Information through Various e-Initiatives**
+
+**Weather Forecast under NeGP-A**  
+The National e-Governance Plan in Agriculture (NeGP-A) provides weather forecast and agro-met advisories to farmers through multiple channels, including SMS, at the district level, focusing on natural calamities like drought.
+
+**Gramin Krishi Mausam Sewa (GKMS)**  
+Implemented by the Department of Agriculture, Maharashtra, and the IMD, this service offers weather-related advisories to farmers, supporting better decision-making in farming practices.
+
+**Climate Change Knowledge Network – Indian Agriculture (CCKN-IA)**  
+Collaborating with IMD, the Government of Maharashtra, and GIZ, this project provides weather advisories and climate information to farmers, aiding in adapting to climate change.
+
+**National Agricultural Drought Assessment and Monitoring System (NADAMS)**  
+Led by the Mahalanobis National Crop Forecast Centre (MNCFC), this initiative uses satellite data to monitor drought at district levels, with monthly assessments and online access.
+
+**IMD Drought Monitoring**  
+In coordination with State Agricultural Universities and the State Departments of Agriculture, IMD monitors drought and other calamities using rainfall and climate data, such as Aridity Index and NDVI.
+
+**Mausam & Meghdoot Apps**  
+Launched by the Ministry of Earth Sciences, these mobile apps provide weather updates and other features for farmers, using data from IMD weather stations across the country.
+
+
+------
+
+
