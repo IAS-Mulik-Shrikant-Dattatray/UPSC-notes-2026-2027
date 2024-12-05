@@ -440,3 +440,93 @@ In summary, the Strategy on Resource Efficiency aims to improve material consump
 
 
 ----
+
+**7.6 Hill Area Development Program (HADP) Summary**
+
+The Hill Area Development Program (HADP) was launched as a pilot in Manipur's hilly districts, with plans to expand to other Northeast states. The districts were selected based on the Composite District Infrastructure Index, focusing on areas lagging in development.
+
+**Key Objectives:**
+- **Equitable Development:** Ensuring balanced development for all regions, sections of society, and tribes in the Northeast.
+- **Bridging Development Gaps:** Bringing the eight Northeast states to the same development level as more advanced states in India.
+
+**Historical Context:**
+- The focus on hill areas dates back to the Fifth Five-Year Plan, when HADP and the Western Development Program were first introduced. Since then, similar initiatives have been implemented in various forms.
+
+In essence, HADP aims to address the unique challenges of Northeast hill areas, promoting equitable and targeted development.
+
+
+----
+
+**7.7 Island Development Authority (IDA) Summary**
+
+The Island Development Authority (IDA) was established in June 2017 for the holistic development of India's islands. Chaired by the Union Home Minister, it includes secretaries from various ministries.
+
+**Key Points:**
+- **Targeted Islands:** IDA identified 10 islands for development, including five in the Andaman and Nicobar Islands (Smith, Ross, Long, Avis, Little Andaman) and five in Lakshadweep (Minicoy, Bangaram, Thinnakara, Cheriyam, Suheli).
+- **Development Focus:** Projects will consider the islands' unique maritime and biodiversity characteristics.
+- **Livelihood & Economy:** The initiative aims to promote the tuna fishing industry, community-based tourism, and a sustainable maritime economy.
+
+In summary, IDA focuses on environmentally sensitive, sustainable development for selected islands, enhancing livelihoods and promoting long-term economic growth.
+
+
+----
+
+**7.8 Social Stock Exchange (SSE) Summary**
+
+The Social Stock Exchange (SSE) is a regulated platform for for-profit social enterprises (FPEs) and not-for-profit organizations (NPOs) with a social purpose to raise funds. SEBI has approved the creation of SSE, and is working with NABARD, SIDBI, and stock exchanges to establish a Rs 100 crore capacity-building fund.
+
+**Key Points:**
+- **Target Entities:** SSE will allow NPOs and FPEs with explicit social intent to list and raise funds through equity, zero-coupon bonds, mutual funds, social impact funds, and development impact bonds.
+- **Market Access:** SSE facilitates connections between social enterprises and investors, improving visibility for both.
+- **Synergy & Transparency:** The exchange encourages synergy between investors and social enterprises, ensuring transparency with rigorous due diligence and performance metrics.
+- **Performance-Based Philanthropy:** Regular monitoring will ensure better project implementation and efficiency in raising funds for social causes.
+- **Reduced Government Burden:** Private sector involvement through SSE will ease government pressure in achieving development goals.
+
+**Need for SSE:**
+- The SSE provides a platform for more effective interaction between social sector entities and investors, ensuring better accountability, transparency, and performance.
+  
+**Challenges:**
+- **High Transaction Costs:** The complexity of due diligence and monitoring may increase costs.
+- **Lack of Common Standards:** There is a need for standardized methods of measuring social impact.
+- **Experience of Microfinance Institutions:** Past challenges with commercial capital in the social sector suggest caution in similar investments.
+- **Investor Screening:** Identifying and screening suitable investors remains a challenge.
+- **Tax and Regulatory Clarity:** Clear financial instruments and tax regulations are needed to ensure the smooth functioning of the SSE.
+
+In conclusion, the SSE aims to create a thriving ecosystem for social enterprises to raise funds while ensuring transparency, accountability, and long-term development. However, building this ecosystem requires addressing several challenges, including regulatory clarity and capacity-building for social enterprises.
+
+
+-----
+
+
+
+**7.9 Corporate Social Responsibility (CSR) Summary**
+
+Corporate Social Responsibility (CSR) refers to the responsibility of corporations to contribute towards economic, social, and environmental development that benefits society at large. The primary objective of CSR is to promote sustainable business practices and encourage companies to implement innovative and responsible management systems.
+
+
+![alt text](image-7.png)
+
+
+**Key Points:**
+- **Companies Act, 2013:** India became the first country to mandate CSR expenditure through legislation, requiring companies with a net worth of Rs 500 crore, a turnover of Rs 1,000 crore, or a net profit of Rs 5 crore to spend at least 2% of their average net profit over the preceding three financial years on CSR activities.
+- **Schedule VII of the Act:** Specifies 17 activities under which CSR funds should be used, ensuring that these activities go beyond the company’s normal business operations.
+  
+**CSR Expenditure:**
+- **Growth in CSR Spending:** The total CSR expenditure by companies increased by 30%, from Rs. 26,278 crore in 2018-19 to 2021-22.
+- **Challenges in CSR Compliance:** Some companies struggle to meet CSR requirements due to difficulties in identifying suitable projects or selecting appropriate implementing agencies, especially for multi-year projects.
+  
+**CSR Funding Areas:**
+- **Health and Sanitation:** These sectors have received the most significant share of CSR funds.
+- **Government Funds:** CSR contributions can be made to various central government funds, such as the PM National Relief Fund, Swachh Bharat Kosh, and Clean Ganga Fund.
+
+**Geographical Disparities:**
+- **Regional Imbalance in CSR Funding:** A significant portion of CSR funds is concentrated in states where large companies are located, leading to geographical disparities in the distribution of CSR benefits.
+
+**Conclusion:**
+CSR has become a critical tool for businesses to contribute to national development. The regulatory framework set by the Companies Act ensures a structured approach to CSR, although challenges related to compliance and equitable distribution of funds remain. The growing focus on health and sanitation highlights the positive social impact of CSR activities, while the geographical disparities point to the need for more inclusive CSR practices across all regions.
+
+
+![alt text](image-8.png)
+
+
+-----
