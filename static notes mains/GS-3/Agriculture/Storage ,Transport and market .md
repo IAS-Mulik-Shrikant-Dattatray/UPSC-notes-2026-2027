@@ -1,7 +1,7 @@
 # Topic : Storage, transport and marketing of agricultural produce and issues and related constraints
 
 
-
+### Storage :
 
 ---
 
@@ -189,3 +189,25 @@ In summary, these schemes focus on enhancing cold storage infrastructure, improv
 
 ------
 
+### Transport :
+
+**2. Food Grain Transport in India: Summary**
+
+Ensuring food accessibility across India is a challenging task due to its vast size. The Food Corporation of India (FCI) manages the transportation of food grains from surplus to deficit regions for various purposes, including:
+
+- **Evacuating stocks** from surplus areas.
+- **Meeting requirements** of deficit regions for National Food Security Act (NFSA), Targeted Public Distribution System (TPDS), and other schemes.
+- **Creating buffer stocks** in deficit areas.
+
+**Transportation Process**:  
+- Surplus food grains are mainly concentrated in Northern States and need to be transported over long distances to deficit regions.
+- Stocks are collected in local depots and dispatched to recipient States within a set timeframe.
+
+**Logistics**:  
+- FCI transports approximately 40 million tonnes of food grains annually.
+- Over 85% of this movement is by **rail**, with **road** transport used in areas not connected by rail.
+- **Waterways** are used for transporting food grains to Lakshadweep, Andaman & Nicobar Islands, and coastal regions like Kerala and Agartala (Tripura).
+
+In summary, FCI coordinates extensive transport operations to ensure food grains reach deficit areas, using a mix of rail, road, and waterways.
+
+----------
