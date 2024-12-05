@@ -310,3 +310,27 @@ The food processing industry in India faces several challenges that hinder its g
 
 -----
 
+
+
+
+
+**8. Policy Initiatives and Measures Taken by the Government**  
+
+To support the growth of the food processing sector, the government has implemented several key reforms:
+
+- **Licensing Exemptions**: Most processed food items are exempt from licensing under the Industries (Development and Regulation) Act, 1951, except for small-scale sector items and alcoholic beverages.
+- **Bank Lending**: The food processing industry was included in the priority sector for bank lending in 1999.
+- **Foreign Direct Investment (FDI) Relaxations**: The government has relaxed FDI norms, allowing up to 100% FDI in food product e-commerce through the automatic route. Full repatriation of profits and capital is allowed.
+- **Duty Exemptions**: Zero duty imports of capital goods and raw materials are allowed for 100% export-oriented units, with full duty exemption for units in export processing zones.
+- **Budget Allocation**: In the Interim Budget 2024-25, the Ministry of Food Processing Industries was allocated Rs. 3,290 crores (~US$ 396 million), a 13% increase over the previous fiscal year.
+- **Food Map and Investor Portal**: The government has launched a food map on the Ministry’s website, indicating surplus and deficit areas, and an Investor’s Portal to promote investment in food processing.
+- **APMC Reforms and Contract Farming**: Reforms have been made to promote contract farming, which will ensure a steady supply of raw materials to the food processing industry. 
+  - **Agri Export Zones (AEZ)**: Established since 2001, AEZs function similarly to Special Economic Zones (SEZs) for agricultural products, offering tax rebates to promote exports. 60 AEZs were notified by 2004-05.
+- **Food Safety and Standards Authority of India (FSSAI)**: FSSAI is enhancing food testing infrastructure by upgrading 59 existing labs and setting up 62 new mobile testing labs. It has issued regulations for food product standards, safety, contaminants, and food additives.
+- **International Best Practices in Fertilizer Research**: The Indian Council for Fertilizer and Nutrient Research (ICFNR) has adopted global best practices to provide farmers with high-quality fertilizers at affordable rates, aiming to ensure food security.
+
+
+
+------
+
+
