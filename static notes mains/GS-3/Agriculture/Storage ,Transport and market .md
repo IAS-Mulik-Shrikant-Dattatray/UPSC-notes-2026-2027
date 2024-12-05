@@ -1,7 +1,7 @@
 # Topic : Storage, transport and marketing of agricultural produce and issues and related constraints
 
 
-### Storage :
+### 1. Storage :
 
 ---
 
@@ -189,7 +189,7 @@ In summary, these schemes focus on enhancing cold storage infrastructure, improv
 
 ------
 
-### Transport :
+### 2.Transport :
 
 **2. Food Grain Transport in India: Summary**
 
