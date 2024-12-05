@@ -318,3 +318,23 @@ A 2019 report by the National Sample Survey Office (NSSO) revealed that, out of 
 
 
 ------
+
+
+**3.2. Types	of	Agricultural	Marketing	in	India**
+
+**Types of Agricultural Marketing in India**
+
+1. **Traditional Marketing**:  
+   In this method, farmers sell their produce directly, often involving multiple intermediaries. Around 50% of agricultural produce in India is sold through these channels.
+
+2. **Cooperative Marketing**:  
+   In this method, agricultural products are directly purchased from farmers through networks like NAFED, which eliminates middlemen.
+
+3. **Emerging Models**:
+   - **National Agriculture Market (eNAM)**
+   - **Farmer Producer Organizations**
+   - **Contract Farming**
+   - **Commodity and Future Markets**
+
+
+   ------
