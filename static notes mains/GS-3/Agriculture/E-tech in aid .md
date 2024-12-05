@@ -190,3 +190,19 @@ As of March 16, 2023, 1,361 mandis across 23 states and 4 UTs have been integrat
 
 
 -------
+
+**4.7 Seednet**  
+The **Seednet India Portal** is a national initiative by the Union Ministry of Agriculture and Farmers Welfare to provide information on quality seeds. Key features include:
+
+- Information on seed sector aspects like quality control, seed replacement rate, seed multiplication ratio, and types of seeds (breeder, foundation, certified).
+- Details on seed varieties, seed banks, seed testing labs, dealers, certification agencies, and more.
+
+**4.8 DACNET**  
+**DACNET** is an initiative by the Department of Agriculture and Cooperation (DAC), Ministry of Agriculture, aimed at leveraging information technology to improve governance and service delivery. Key benefits of DACNET include:
+
+- **Faster Services**: Reduced processing time for services from over a year to under three months.
+- **Efficiency**: Focused on ease-of-use, speed, accuracy, reduction of corruption, and affordability in service delivery.
+
+
+-----
+
