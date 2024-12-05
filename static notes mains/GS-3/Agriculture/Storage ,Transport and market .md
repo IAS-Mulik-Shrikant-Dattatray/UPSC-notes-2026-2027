@@ -102,3 +102,31 @@ The Standing Committee on Food, Consumer Affairs, and Public Distribution submit
 
 
 -------
+
+
+**Cold Storage in India: Summary**
+
+**Importance**:  
+Cold chain infrastructure is vital for preserving perishable products like fruits, vegetables, dairy, and meat. It ensures temperature-controlled storage, transportation, and distribution to extend shelf life and reduce spoilage, helping reduce food waste and support exports. Proper cold storage also supports achieving the Sustainable Development Goal of zero hunger by reducing loss and improving farmers' income.
+
+**Market Growth**:  
+The Indian cold chain market was valued at INR 1.8 lakh Cr in 2022 and is expected to reach INR 3.8 lakh Cr by 2028, with a CAGR of 12.3%.
+
+**Need for Cold Storage**:  
+- Extends the shelf life of perishable goods, preventing spoilage.
+- Reduces waste and helps in surplus production for exports.
+- Supports farmers’ income and contributes to food security.
+
+**Challenges in Cold Chain Infrastructure**:
+1. **Under-utilisation**: India has 8,653 cold stores with a capacity of 394.17 lakh MT, but only 60% is used.
+2. **Geographical and Logistical Issues**: High summer temperatures (up to 50°C) cause damage to products due to insufficient cold chain systems.
+3. **Lack of Awareness**: Farmers, food processors, and logistics experts are unaware of cold storage's benefits.
+4. **High Costs**: Building and running cold storage is expensive, with fuel costs making up 45% of operating expenses, much higher than in the West.
+5. **Weak Support Ecosystem**: Issues include inadequate equipment, power shortages, poor packaging, vehicle breakdowns, and a lack of skilled labor.
+6. **Fragmented Setup**: Cold storage is unevenly distributed, with only a few states (UP, Gujarat, West Bengal, Punjab) holding 60% of the capacity.
+7. **Tech Lag**: India lags in adopting technologies like AI, ML, and IoT, leading to inefficient cold chains and losses.
+
+In summary, while cold storage is crucial for the agriculture sector, challenges like underutilization, high costs, logistical issues, and lack of technology hinder the efficiency of the cold chain in India.
+
+
+------
