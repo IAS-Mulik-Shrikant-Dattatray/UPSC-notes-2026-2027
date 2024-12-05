@@ -451,7 +451,7 @@ The **Model APMC Act, 2003**:
 -----
 
 
-**Model Agricultural Produce and Livestock Marketing (Promotion & Facilitation) Act, 2017**
+**3.6.4. Model Agricultural Produce and Livestock Marketing (Promotion & Facilitation) Act, 2017**
 
 The Government of India introduced the **Agricultural Produce and Livestock Marketing (Promotion & Facilitation) Act, 2017** to replace the **Agriculture Produce Markets Committee Act, 2003**.
 
