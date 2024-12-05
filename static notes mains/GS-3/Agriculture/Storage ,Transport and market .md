@@ -104,7 +104,7 @@ The Standing Committee on Food, Consumer Affairs, and Public Distribution submit
 -------
 
 
-**Cold Storage in India: Summary**
+**1.2.Cold Storage in India: Summary**
 
 **Importance**:  
 Cold chain infrastructure is vital for preserving perishable products like fruits, vegetables, dairy, and meat. It ensures temperature-controlled storage, transportation, and distribution to extend shelf life and reduce spoilage, helping reduce food waste and support exports. Proper cold storage also supports achieving the Sustainable Development Goal of zero hunger by reducing loss and improving farmers' income.
