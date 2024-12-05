@@ -209,3 +209,31 @@ The **Seednet India Portal** is a national initiative by the Union Ministry of A
 
 -----
 
+**4.9 AGMARKNET**  
+**AGMARKNET** (Agricultural Marketing Information Network) is a collaboration between the Directorate of Marketing and Inspection (DMI) and the National Informatics Center (NIC). Key features include:
+
+- Coverage of 3,245 market nodes and 300 commodities, offering information in 10 languages.
+- Provides valuable data on prices, arrivals, availability, trends, laws, and analysis to producers, traders, and consumers.
+- Connected to 2,784 agricultural markets and State Agricultural Marketing Boards, facilitating real-time data sharing across portals.
+- Used by food processing units, traders, and village kiosks to help farmers make informed decisions.
+
+----
+
+**4.10 Kisan Call Centres (KCC)**  
+
+![alt text](image-30.png)
+
+Launched in 2004, the **Kisan Call Centres (KCCs)** provide agriculture-related information to farmers via toll-free phone lines. Key features:
+
+- Accessible nationwide via a common eleven-digit number, available on all telecom networks, including private providers.
+- Queries are answered in 22 local languages, ensuring farmers receive information in their dialect.
+
+----
+
+**4.11 AGRISNET**  
+**AGRISNET** is part of the Central Sector Plan Scheme "Strengthening/Promoting Agricultural Informatics & Communications," implemented by the Department of Agriculture & Cooperation. Its main objectives:
+
+- Enhance services to the farming community through the use of Information and Communication Technology (ICT).
+
+
+----
