@@ -212,3 +212,35 @@ The food processing market in India is a rapidly growing industry with significa
 
 ![alt text](image-23.png)
 ----
+
+
+
+**7. Challenges faced by Food Processing Industry in India**
+
+![alt text](image-24.png)
+
+
+
+**7. Challenges Faced by the Food Processing Industry in India**  
+
+The food processing industry in India faces several challenges that hinder its growth and efficiency:
+
+- **Informalization in Food Processing**: Approximately 75% of the industry is unorganized, leading to inefficiencies in production systems.
+- **Lack of Efficient Supply Chain Infrastructure**: Inadequate processing and storage capacity result in higher wastage, production costs, and lower value addition.
+- **Lower Value Addition**: Despite being a major agricultural producer, India's food processing and value addition levels remain low, affecting competitiveness, export performance, and farmers' income.
+- **Private Participation**: Cold chain infrastructure requires heavy investment with long payback periods, which is beyond the capacity of many individual food processors. High costs and limited credit access discourage private sector participation.
+- **Inadequate Linkage Between Processors and Farmers**: Lack of coordination between processors, exporters, and farmers leads to mismatches between industry needs and agricultural produce supply.
+- **Formal Credit Facility**: MSME-based food processing units struggle to access bank credit due to the seasonal and perishable nature of their products.
+- **Bureaucratic Hurdles**: The industry faces multiple clearance requirements for setting up units, which are time-consuming and costly, especially for small processors.
+- **Labour Laws**: Compliance with labour laws related to layoffs, retrenchment, and closures is difficult for seasonal units, affecting their commercial viability.
+- **Marketing of Processed Food**: Micro and small processors struggle with marketing and branding due to limited resources, impacting their sector performance.
+- **Lack of Awareness**: Many processors face challenges accessing government scheme benefits due to a lack of awareness and guidance.
+- **Inadequate Training**: There is a lack of sector-specific entrepreneurship development and incubation services, which hampers sector growth.
+- **Seasonality of Operations**: The industry operates seasonally due to the nature of agriculture, unlike developed countries where technological advancements allow year-round operations.
+- **Coordination in Research**: While many research institutes focus on product and process improvements, there is a lack of coordination in research and dissemination of findings to the industry.
+- **Limited Ability to Control Quality and Safety**: The large unorganized segment and numerous players make it difficult to implement consistent quality and safety norms, leading to issues like milk adulteration and carbide use for fruit ripening.
+
+
+
+-----
+
