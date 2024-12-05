@@ -359,7 +359,7 @@ To fully harness e-agriculture, a comprehensive approach involving policy, inves
 ### Extra :
 
 
-**Role of Drone Technology in Agriculture:**
+**1. Role of Drone Technology in Agriculture:**
 
 With agriculture being a major source of income in India, technological upgrades are essential for improving efficiency. Recently, the Ministry of Agriculture & Farmers’ Welfare released the Standard Operating Procedure (SOP) for using drones in pesticide application and nutrient spraying. 
 
@@ -387,7 +387,7 @@ Drone technology has the potential to revolutionize agriculture, but its widespr
 -----
 
 
-**Significance of Technology in the Indian Agricultural Sector:**
+**2. Significance of Technology in the Indian Agricultural Sector:**
 
 Agriculture is the primary livelihood for 58% of India's population, but issues like low productivity and low farmer income persist, with many farmers living below the poverty line. In this context, emerging technologies such as Machine Learning (ML), Internet of Things (IoT), Big Data Analytics (BDA), and Cloud Computing can significantly enhance agricultural efficiency and farmer income.
 
@@ -416,7 +416,7 @@ To unlock the potential of digital agriculture, there is a need for improved com
 -----
 
 
-**Benefits of E-Technology for Indian Farmers:**
+**3. Benefits of E-Technology for Indian Farmers:**
 
 Agriculture is the cornerstone of food security, nutritional security, and sustainable development in India, contributing around 15% of the GDP. E-technologies like artificial intelligence (AI), machine learning (ML), remote sensing, big data, blockchain, and the Internet of Things (IoT) are revolutionizing agricultural practices, improving efficiency and enhancing farmers' livelihoods.
 
