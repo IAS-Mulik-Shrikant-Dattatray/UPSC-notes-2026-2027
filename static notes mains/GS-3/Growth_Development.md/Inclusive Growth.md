@@ -190,3 +190,43 @@ India currently ranks 116 out of 174 in the Global Human Capital Index (2020). T
 
 
 -----
+
+
+**6. Sectoral Steps Taken for Inclusive Growth**
+
+1. **Education and Skill Development**: The government has implemented several initiatives to improve education and skills, including the **New Educational Policy** and the **Pradhan Mantri Kaushal Vikas Yojana**. These programs aim to enhance the skills of the workforce, focusing on vocational training and improving access to quality education.
+
+2. **Health**: **Ayushman Bharat**, launched in the Union Budget 2018-19, is a National Health Protection Scheme aimed at covering over 10 crore poor and vulnerable families. The scheme provides coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization, making healthcare more accessible for marginalized sections of society.
+
+3. **Social Security**: The government has expanded the social security net through several initiatives aimed at protecting the poor and vulnerable:
+   - **Pradhan Mantri Suraksha Bima Yojana**: Provides accident insurance.
+   - **Atal Pension Yojana**: Focuses on providing pensions for workers in the unorganized sector.
+   - **Pradhan Mantri Jeevan Jyoti Yojana**: Offers life insurance.
+   - **MUDRA Bank**: Provides microfinance to rural entrepreneurs.
+   - **National Hub for SC/ST Entrepreneurs**: Supports marginalized communities by fostering entrepreneurship.
+
+4. **Financial Inclusion**: The **Pradhan Mantri Jan Dhan Yojana** focuses on ensuring that economically weaker sections have access to bank accounts, aiming to provide financial services to the underprivileged and promote financial inclusion.
+
+5. **Employment Generation**: Several government schemes focus on creating employment opportunities, particularly in rural and urban areas:
+   - **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**: Ensures employment to rural households.
+   - **Prime Minister’s Employment Generation Programme (PMEGP)**: Promotes entrepreneurship.
+   - **Pradhan Mantri Rojgar Protsahan Yojana**: Encourages the creation of new jobs.
+   - **Pt. Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY)**: Focuses on skill development in rural areas.
+   - **Deendayal Antyodaya Yojana - National Urban Livelihoods Mission (DAY-NULM)**: Aims to create sustainable livelihoods in urban areas.
+
+6. **Agriculture**: The government has reoriented the agricultural sector to focus on income generation, organic farming, irrigation infrastructure, and technology adoption. Key schemes include:
+   - **Soil Health Card (SHC) Scheme**: Ensures soil health and sustainable agriculture.
+   - **Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)**: Focuses on expanding irrigation.
+   - **Paramparagat Krishi Vikas Yojana (PKVY)**: Promotes organic farming.
+   - **Kisan Credit Card**: Provides farmers with easy access to credit.
+
+7. **Rural Empowerment**: To enhance rural infrastructure and development, the government has launched various initiatives:
+   - **Pradhan Mantri Awas Yojana - Gramin**: Focuses on affordable housing in rural areas.
+   - **Bharat Net**: Ensures internet connectivity in rural areas.
+   - **DDU Gram Jyoti Yojana**: Aims to provide power connectivity to rural areas.
+   - **Aadhaar**: The biometric-based unique identification system ensures that the poor are not excluded from government schemes, facilitating financial inclusion and social security.
+
+These initiatives collectively contribute to inclusive growth by addressing poverty, inequality, and unemployment, while fostering human capital development across sectors.
+
+
+----
