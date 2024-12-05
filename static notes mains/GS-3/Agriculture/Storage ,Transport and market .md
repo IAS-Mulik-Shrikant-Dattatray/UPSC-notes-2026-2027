@@ -159,7 +159,7 @@ In summary, these schemes focus on improving storage infrastructure, enhancing s
 
 
 
-**Schemes Targeting Cold Storage in India: Summary**
+**1.4.Schemes Targeting Cold Storage in India: Summary**
 
 1. **PM Kisan Sampada Yojana (PMKSY)**:  
    Supports the development of cold storage, packaging units, and warehousing.  
