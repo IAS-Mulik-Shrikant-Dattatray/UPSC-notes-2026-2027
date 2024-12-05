@@ -303,4 +303,18 @@ Transit losses in food grain transportation have significantly reduced due to im
 
 ------
 
+### 3. Marketing :
 
+
+**Agricultural Marketing Overview**
+
+Agricultural marketing involves the buying, selling, and movement of farm products from farms to consumers. It includes activities, agencies, and policies related to the procurement of farm inputs and the distribution of produce. The Indian Council of Agricultural Research identifies three main functions in agricultural marketing:
+
+- Assembling (concentration)
+- Preparation for consumption (processing)
+- Distribution
+
+A 2019 report by the National Sample Survey Office (NSSO) revealed that, out of 93 million agricultural households in India, 63% sold crops. Of these, 76% sold locally, while only 7.2% used Agricultural Produce Marketing Committee (APMC) markets. Additionally, only 5.4% sold to private processors, and 0.37% to contract farming companies. This highlights the need for better marketing systems to ensure better prices. The survey also found that 60% of agricultural households were satisfied with their sales, but 36% were dissatisfied due to receiving lower prices.
+
+
+------
