@@ -479,7 +479,7 @@ The Government of India introduced the **Agricultural Produce and Livestock Mark
 
 -----
 
-**Model Contract Farming Act, 2017**
+**3.6.5. Model Contract Farming Act, 2017**
 
 **Contract farming** involves a pre-harvest agreement between buyers (e.g., food processors, exporters) and producers (farmers or farmer organizations) for agricultural production, including livestock and poultry.
 
