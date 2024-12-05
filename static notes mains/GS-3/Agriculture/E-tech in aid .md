@@ -237,3 +237,28 @@ Launched in 2004, the **Kisan Call Centres (KCCs)** provide agriculture-related 
 
 
 ----
+
+
+**5. Private Sector Initiatives**
+
+**5.1 Green SIM**  
+Implemented by IFFCO Kisan Sanchar Limited (IKSL), this service delivers up to four free voice messages daily on agriculture-related topics in 22 languages. It includes content on agriculture, animal husbandry, insurance, and more. IKSL also offers a mobile app and online portal for broader access.
+
+**5.2 Facebook for Farmers and Extension Workers**  
+In Kerala, the state government uses Facebook to enhance agricultural extension services. Farmers and agricultural officers must maintain social media accounts to stay connected with local agricultural departments, boosting productivity and profitability.
+
+**5.3 E-choupal**  
+ITC’s e-Choupal connects farmers to vital information, storage, and agricultural tools. It reaches over 4 million farmers across 35,000 villages, improving market access and reducing exploitation by middlemen. It operates in 10 states, helping farmers produce better yields and profits.
+
+**5.4 SasyaSree**  
+SasyaSree is a Telugu-language portal providing localized agricultural information, including crop management practices, government schemes, and market prices, aimed at farmers in eight districts of Andhra Pradesh.
+
+**5.5 mkrishi**  
+Developed by Tata Consultancy Services (TCS), mkrishi offers personalized farming advice in voice and visual formats through mobile phones, helping farmers improve their practices.
+
+**5.6 eSagu**  
+eSagu is a personalized agro-advisory system developed by IIIT Hyderabad, providing timely, farm-specific advice to improve productivity for individual farmers.
+
+
+
+-------
