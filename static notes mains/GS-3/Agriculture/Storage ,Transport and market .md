@@ -132,7 +132,7 @@ In summary, while cold storage is crucial for the agriculture sector, challenges
 ------
 
 
-**Storage-Related Schemes in India: Summary**
+**1.3.Storage-Related Schemes in India: Summary**
 
 1. **National Policy on Handling and Storage of Food Grains**:  
    Aims to reduce storage and transit losses and promote bulk handling, storage, and transportation of food grains procured by the Food Corporation of India (FCI).
