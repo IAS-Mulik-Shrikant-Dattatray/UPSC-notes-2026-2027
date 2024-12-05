@@ -288,3 +288,24 @@ Launched by the Ministry of Earth Sciences, these mobile apps provide weather up
 ------
 
 
+**7. Digital India and Agriculture Sector**
+
+**Introduction**  
+Launched in 2015, the *Digital India* programme aims to empower citizens with digital access to government services and livelihood opportunities. The initiative focuses on three core components:  
+- **Digital Infrastructure**  
+- **Digital Services**  
+- **Digital Literacy**
+
+It prioritizes the use of mobile phones for *mGovernance* and *mServices*, with *mAgriculture* and *mGramBazar* being key components that directly impact agricultural extension and marketing services.
+
+**Benefits to Farmers**  
+- **Digitally Empowered Rural Economy**: Transforms rural India into a knowledge-based economy.
+- **Universal Connectivity**: Aims to provide phone and broadband connectivity in 250,000 villages.
+- **Timely Services**: Extends IT-based services to farmers, enhancing access to crucial information.
+- **Improved Agricultural Governance**: Promotes efficiency in agriculture through digital literacy and e-delivery of services.
+
+
+![alt text](image-31.png)
+
+
+-----
