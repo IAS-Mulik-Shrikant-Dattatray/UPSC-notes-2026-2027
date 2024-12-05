@@ -144,3 +144,14 @@ The **Kisan Sabha App** offers several key benefits for farmers:
 
 
 ----
+
+**4.5 Crop Insurance Mobile App**
+
+The **Crop Insurance Mobile App**, developed under the Digital India initiative, offers the following features:
+
+- **Premium Calculation**: Helps farmers calculate insurance premiums for notified crops based on area, coverage, and loan amount (for loanee farmers).
+- **Insurance Details**: Provides information on normal and extended sum insured, premium rates, and subsidy details for any notified crop in a designated area.
+
+
+----
+
