@@ -130,3 +130,32 @@ In summary, while cold storage is crucial for the agriculture sector, challenges
 
 
 ------
+
+
+**Storage-Related Schemes in India: Summary**
+
+1. **National Policy on Handling and Storage of Food Grains**:  
+   Aims to reduce storage and transit losses and promote bulk handling, storage, and transportation of food grains procured by the Food Corporation of India (FCI).
+
+2. **Gramin Bhandaran Yojana**:  
+   Focuses on building storage facilities in rural areas to meet farmers' needs, promoting grading, standardization, and quality assurance to increase marketability of agricultural produce.
+
+3. **Warehouse Infrastructure Fund**:  
+   Provides loans to public and private sectors for building cold chain infrastructure, including silos, storage, and warehouses.
+
+4. **Negotiable Warehouse Receipt (NWR) / Electronic NWR (e-NWR)**:  
+   The Warehousing Development and Regulatory Authority (WDRA) introduced NWR and e-NWR systems to allow farmers to store produce in WDRA-approved warehouses. Farmers can use these receipts as collateral to secure financing from banks.
+
+5. **Private Entrepreneurs Guarantee (PEG) Scheme**:  
+   Supports the construction of storage godowns through Public-Private Partnerships (PPP) involving private entrepreneurs, the Central Warehousing Corporation (CWC), and State Warehousing Corporations (SWCs) to address storage shortages.
+
+6. **Central Sector Scheme for Construction of Godowns**:  
+   Aims to increase storage capacity, particularly in the North Eastern Region and other select states. 
+
+In summary, these schemes focus on improving storage infrastructure, enhancing storage capacity, and providing financial support for better handling and preservation of agricultural produce in India.
+
+
+-----
+
+
+
