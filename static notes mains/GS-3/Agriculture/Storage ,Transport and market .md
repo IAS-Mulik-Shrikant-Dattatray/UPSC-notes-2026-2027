@@ -337,4 +337,21 @@ A 2019 report by the National Sample Survey Office (NSSO) revealed that, out of 
    - **Commodity and Future Markets**
 
 
-   ------
+------
+
+
+**3.3. Emerging Models of Agricultural Marketing**
+
+1. **National Agriculture Market (eNAM)**:  
+   An online platform for trading agricultural commodities, eNAM connects farmers, traders, and buyers, aiding in better price discovery and smooth marketing of produce.
+
+2. **Farmer Producer Organizations (FPO)**:  
+   A legal entity formed by farmers, milk producers, and other primary producers. It can be a cooperative or producer company, where profits and benefits are shared among members.
+
+3. **Contract Farming**:  
+   An agreement between farmers and buyers that sets conditions for the production and marketing of farm products.
+
+4. **Commodity and Future Markets**:  
+   Future trading helps protect market participants from risks caused by price fluctuations.
+
+------
