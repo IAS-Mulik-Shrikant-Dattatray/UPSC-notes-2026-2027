@@ -378,3 +378,28 @@ Overall, well-functioning agricultural markets promote growth, food security, em
 
 
 ------
+
+
+**3.5. Issues in Agricultural Markets in India**
+
+1. **Institutional Issues**:
+   - **Licensing Barriers**: The requirement for commission agents/traders to own a shop or godown limits entry, creating monopolies and hindering competition in APMCs.
+   - **High Market Charges**: APMCs impose market fees ranging from 0.5% to 2% of produce sales, with additional charges such as purchase tax and weighment fees. In some states, total charges can reach up to 15%.
+   - **Lack of Standardized Grading**: The absence of a standardized grading system prevents farmers from receiving fair prices based on produce quality.
+
+2. **Infrastructural Issues**:
+   - **Poor Infrastructure**: Only two-thirds of regulated markets have auction platforms, one-fourth have drying yards, and less than 10% have cold storage units or grading facilities.
+   - **Economic Viability of Projects**: The long gestation period and seasonality of agricultural surpluses make infrastructure projects economically unviable, deterring investment.
+
+3. **Market Information System Issues**:
+   - **Lag in Demand Signals**: The lack of real-time information causes delays in market signals, with farmers relying on past price trends, which may not be accurate for future seasons.
+   - **Limited Information Channels**: Current systems (e.g., newspapers, APMC boards) mainly provide price information, are often distant from farmers, and are not in local languages.
+   - **Low Awareness of Information Channels**: Few farmers use accessible systems like SMS-based advisories or voice interaction systems.
+
+4. **Other Issues**:
+   - **Absence of National Integrated Market**: There is no nationwide regulation for APMCs, and existing regulations fail to create a barrier-free market.
+   - **Limited Public Investment**: Public spending on agricultural marketing is low, with less than 1% dedicated to infrastructure development.
+
+These issues result in low price realization for farmers, food insecurity, and high supply chain wastages.
+
+----
