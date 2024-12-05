@@ -430,3 +430,22 @@ The Agricultural Produce Marketing Committee (APMC) is a statutory body formed b
 
 
 -----
+
+
+**Model APMC Act, 2003**
+
+To address inefficiencies in APMC functioning, the Ministry of Agriculture introduced the **Model Agricultural Produce Marketing (Development and Regulation) Act, 2003**. This act aimed to deregulate the agricultural marketing system, promote investment in infrastructure, encourage direct marketing by the corporate sector, and create a national market.
+
+The **Model APMC Act, 2003**:
+- Provides farmers the freedom to sell produce directly to contract sponsors or in markets set up by private individuals, consumers, or producers.
+- Enhances market competitiveness by allowing common registration of market intermediaries.
+
+**Criticisms of the Model APMC Act**:
+- It does not fully establish a national or state-level common market for agricultural commodities.
+- It still requires buyers to pay APMC charges, even if the produce is sold outside APMC areas.
+- While it allows private sector markets, it fails to foster competition, as private market owners must collect APMC fees along with their own charges.
+
+
+-----
+
+
