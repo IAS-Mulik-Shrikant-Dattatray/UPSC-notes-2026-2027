@@ -189,9 +189,9 @@ In summary, these schemes focus on enhancing cold storage infrastructure, improv
 
 ------
 
-### 2.Transport :
+### 2. Transport :
 
-**2. Food Grain Transport in India: Summary**
+**2.1 Food Grain Transport in India: Summary**
 
 Ensuring food accessibility across India is a challenging task due to its vast size. The Food Corporation of India (FCI) manages the transportation of food grains from surplus to deficit regions for various purposes, including:
 
@@ -212,13 +212,21 @@ In summary, FCI coordinates extensive transport operations to ensure food grains
 
 ----------
 
-**Transit Losses in Food Grain Transportation: Summary**
+**2.2 Transit Losses in Food Grain Transportation: Summary**
 
 Transit losses during food grain distribution remain a significant issue, costing the Food Corporation of India (FCI) nearly **₹300 crore** annually. 
+
+
 
 **Key Points**:
 - **Distance and Loss**: The distance covered during transportation plays a key role in transit losses. For example, in Bihar, a 1% increase in distance from the mandi results in a 1.4% increase in paddy loss. This is less of an issue in Punjab and Madhya Pradesh due to higher market density.
 - **Current Loss Rate**: Transit losses stand at **0.22%** in 2021-22, a significant improvement from **0.47%** in 2012-13, thanks to operational improvements and innovations. FCI saved about **10.75 lakh tonnes** of wheat and rice (worth ₹3,500 crore) from transit loss.
+
+
+
+![alt text](image-34.png)
+
+
 
 **Factors Behind Improvement**:
 - Senior officer inspections of warehouses.
@@ -235,6 +243,5 @@ In summary, transit losses have decreased significantly due to improved processe
 
 
 
-![alt text](image-34.png)
 
 --------
