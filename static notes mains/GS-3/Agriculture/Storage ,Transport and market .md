@@ -32,7 +32,7 @@ Efficient storage and warehousing systems are essential to reduce post-harvest l
 --- 
 
 
-**2. Warehousing in Agriculture**
+**1.1. Warehousing in Agriculture**
 
 Warehouses are designed to protect the quantity and quality of stored agricultural products.
 
@@ -63,6 +63,9 @@ The FCI was established under the Food Corporations Act of 1964 to achieve three
 - **National Food Security**: Maintain satisfactory levels of operational and buffer stocks of food grains.
 
 Since its establishment, FCI has played a significant role in transforming India from a food-deficit country to one that is self-sufficient in food grains.
+
+![alt text](image-33.png)
+
 
 #### **Standing Committee on Food, Consumer Affairs, and Public Distribution Report (2021)**
 
