@@ -100,3 +100,26 @@ To reduce inequality, there is a need for better access to health, education, fi
 
 
 ----
+
+
+**3.3. Unemployment :**
+
+**Unemployment in India**
+
+Unemployment and underemployment rates in India rose until 2018 but have since declined. The overall unemployment rate dropped from 6% in 2018 to 3.2% in 2023, with youth unemployment also decreasing from 17.8% to 10% in the same period.
+
+- **Youth Unemployment**: Despite overall improvements, youth unemployment remains a key challenge. Increasing educational attainment has led to a rise in unemployment among educated youth, who now make up two-thirds of total unemployment. For example, in 2023, the unemployment rate for graduates and above was 28%, down from 35.4% in 2019, with women facing higher rates.
+
+- **Jobless Growth**: While some claim India’s growth is "jobless," data from the Periodic Labour Force Survey (PLFS) shows decreasing unemployment rates in the past five years.
+
+**Youth Underemployment**: Despite the decline in unemployment, underemployment remains a serious issue due to several factors:
+- **Social Pressure**: Overpopulation and societal expectations push people to take jobs below their skill levels.
+- **Technological Advances**: Machines and technology replace entry-level jobs, rendering existing skills obsolete.
+- **Underutilization of Human Capital**: The lack of high-productivity jobs results in the underuse of the workforce's potential.
+- **Skills Gap**: Insufficient on-the-job training and outdated skills development lead to inefficiencies.
+- **Mediocrity**: Limited access to quality jobs discourages skill development, contributing to unemployment.
+- **Other Issues**: Brain drain, low self-esteem, lack of motivation, and emotional challenges like stress, depression, and hypertension exacerbate the problem.
+
+**Conclusion**: To address these challenges, India needs to create high-productivity, high-wage jobs that fully utilize the workforce’s skills.
+
+-----
