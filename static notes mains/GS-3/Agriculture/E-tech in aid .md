@@ -131,3 +131,16 @@ In 2013, the Government of India developed the **Kisan SMS Portal** to provide f
 -------
 
 
+**4.4 Kisan Sabha App**
+
+The **Kisan Sabha App** offers several key benefits for farmers:
+
+- **Timely Logistics Support**: Provides cost-effective and efficient logistics to farmers.
+- **Profit Margins**: Reduces middlemen involvement, allowing farmers to directly connect with institutional buyers and increase their profits.
+- **Market Rates Comparison**: Helps farmers find the best market prices by comparing nearby mandis and booking the cheapest freight vehicles.
+- **One-Stop Platform**: Serves as a hub for farmers, mandi dealers, and truckers to connect, optimize operations, and improve their market access.
+- **Direct Sales**: Facilitates direct sales from farmers to buyers, cutting out intermediaries.
+
+
+
+----
