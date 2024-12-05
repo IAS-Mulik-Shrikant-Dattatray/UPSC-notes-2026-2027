@@ -715,7 +715,7 @@ Inclusive growth in India requires strategic investment in sectors that generate
 
 ### Extra : 
 
-**1. A resilient and prosperous MSME sector is essential for making a big impact on India’s inclusive growth story. Discuss in context of the issues faced by the sector. 2023-4-2077**
+**1. A resilient and prosperous MSME sector is essential for making a big impact on India’s inclusive growth story. Discuss in context of the issues faced by the sector.**
 
 
 The MSME sector is vital for India's inclusive growth, contributing significantly to the economy. It accounts for 45% of manufacturing output, 40% of exports, about one-third of GDP, and employs around 11.1 crore people, making it the backbone of the economy.
