@@ -247,7 +247,7 @@ In summary, transit losses have decreased significantly due to improved processe
 --------
 
 
-**Solutions to Address Transit Losses in Food Grain Transportation:**
+**2.3. Solutions to Address Transit Losses in Food Grain Transportation:**
 
 1. **Increase Coverage and Infrastructure Investment**:
    - **Problem**: Small farmers may struggle with high transportation costs due to lack of access to proper equipment and infrastructure.
