@@ -536,3 +536,38 @@ The Government of India introduced the **Agricultural Produce and Livestock Mark
 
 
 ----
+
+
+
+Here is a simplified and organized summary based on the content extracted from the image:
+
+---
+
+**3.6.7 Way Forward for Holistic Market Reformation** 
+
+1. **APMC Reforms**  
+   - Introduce independent regulators.  
+   - Encourage private sector participation (e.g., private wholesale markets, unified registration).
+
+2. **National Integrated Market**  
+   - Strengthen e-NAM (electronic National Agriculture Market).  
+   - Include third-party certifications and support farmer groups/intermediaries.
+
+3. **Investment in Infrastructure**  
+   - Develop a long-term national policy for storage and movement of produce.  
+   - Promote infrastructure investment through RKVY and PPP models.
+
+4. **Improved Information Systems**  
+   - Use mobile and accessible tools for better information dissemination.  
+   - Provide farmers with tailored and diverse market insights.
+
+5. **Rationalize Market Fees**  
+   - Cap market fees/commissions at 2% of the product value.
+
+6. **Market Yards of National Importance (MNI)**  
+   - Foster inter-state trade via mandis as per expert committee recommendations.
+
+
+
+
+------------------
