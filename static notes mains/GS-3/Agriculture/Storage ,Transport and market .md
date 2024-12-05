@@ -471,5 +471,11 @@ The Government of India introduced the **Agricultural Produce and Livestock Mark
 - Farmers can directly sell their produce to bulk buyers.
 
 
+
+![alt text](image-36.png)
+
+
+
+
 -----
 
