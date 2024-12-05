@@ -3,7 +3,7 @@ employment.
 2.  Inclusive growth and issues arising from it.
 3.  Government Budgeting.
 4.  Major crops-cropping patterns in various parts of the country, - different types of irrigation and
-irrigation systems storage, transport and marketing of agricultural produce and issues and related
+irrigation systems .storage, transport and marketing of agricultural produce and issues and related
 constraints; e-technology in the aid of farmers.
 5.  Issues related to direct and indirect farm subsidies and minimum support prices; Public Distribution
 System- objectives, functioning, limitations, revamping; issues of buffer stocks and food security;
