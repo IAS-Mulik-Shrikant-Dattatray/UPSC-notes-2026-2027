@@ -420,7 +420,9 @@ The Agricultural Produce Marketing Committee (APMC) is a statutory body formed b
 ![alt text](image-35.png)
 
 
-**Major Issues in the Functioning of APMCs**:
+-----
+
+**3.6.2. Major Issues in the Functioning of APMCs**:
 - **Monopsony**: The APMC regulations prevent exporters and processors from buying directly from farmers, creating a market with only one buyer, leading to manipulated pricing and discouraging processing and exports.
 - **Price Manipulation**: This monopsony results in farmers selling produce at lower prices, while intermediaries sell at higher prices, defeating the purpose of APMCs.
 - **Over-Regulation**: Excessive regulation leads to corruption and farmer exploitation.
@@ -432,7 +434,7 @@ The Agricultural Produce Marketing Committee (APMC) is a statutory body formed b
 -----
 
 
-**Model APMC Act, 2003**
+**3.6.3. Model APMC Act, 2003**
 
 To address inefficiencies in APMC functioning, the Ministry of Agriculture introduced the **Model Agricultural Produce Marketing (Development and Regulation) Act, 2003**. This act aimed to deregulate the agricultural marketing system, promote investment in infrastructure, encourage direct marketing by the corporate sector, and create a national market.
 
