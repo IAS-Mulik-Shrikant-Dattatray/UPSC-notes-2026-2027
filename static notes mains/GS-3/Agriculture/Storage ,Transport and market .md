@@ -403,3 +403,30 @@ Overall, well-functioning agricultural markets promote growth, food security, em
 These issues result in low price realization for farmers, food insecurity, and high supply chain wastages.
 
 ----
+
+
+**3.6. Regulation of Agricultural Marketing**
+
+Agriculture is a state subject under the Indian Constitution, and agricultural marketing is primarily regulated by APMCs (Agricultural Produce Market Committees) established by state governments through respective APMC Acts. APMCs, also known as mandis, are physical market infrastructures found in most states (except Jammu and Kashmir, Bihar, Kerala, and Manipur). These mandis regulate key market practices such as weighing, sales methods, grading, and payment procedures. Currently, India has 7,246 functioning mandis.
+
+-----
+
+
+**3.6.1. Agricultural Produce Marketing Committee (APMC)**
+
+The Agricultural Produce Marketing Committee (APMC) is a statutory body formed by state governments to regulate trade in certain agricultural, horticultural, or livestock products, under the APMC Act of the respective state.
+
+
+![alt text](image-35.png)
+
+
+**Major Issues in the Functioning of APMCs**:
+- **Monopsony**: The APMC regulations prevent exporters and processors from buying directly from farmers, creating a market with only one buyer, leading to manipulated pricing and discouraging processing and exports.
+- **Price Manipulation**: This monopsony results in farmers selling produce at lower prices, while intermediaries sell at higher prices, defeating the purpose of APMCs.
+- **Over-Regulation**: Excessive regulation leads to corruption and farmer exploitation.
+- **Market Fragmentation**: Issues like multiple license fees, limited licenses, late payments, and lack of facilities (e.g., grading, storage) hinder farmers rather than help them.
+- **Restricted Private Sector Involvement**: Only state governments can set up markets, limiting private sector investment in marketing infrastructure.
+- **Conflicted Role**: APMCs often act as both regulators and market operators, which undermines their regulatory role due to vested interests in trade. Members and chairmen are often elected from among market agents, leading to conflicts of interest.
+
+
+-----
