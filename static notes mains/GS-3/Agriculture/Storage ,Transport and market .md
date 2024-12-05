@@ -479,3 +479,31 @@ The Government of India introduced the **Agricultural Produce and Livestock Mark
 
 -----
 
+**Model Contract Farming Act, 2017**
+
+**Contract farming** involves a pre-harvest agreement between buyers (e.g., food processors, exporters) and producers (farmers or farmer organizations) for agricultural production, including livestock and poultry.
+
+
+![alt text](image-37.png)
+
+
+**Benefits**:
+- Producers reduce the risk of fluctuating market prices and demand.
+- Buyers secure a steady supply of quality produce.
+
+**Issues**:
+- Existing laws only apply to a few farm commodities and focus primarily on marketing.
+
+**Challenges with Contract Farming**:
+- **State Reluctance**: States hesitate to implement reforms due to concerns over loss of revenue.
+- **Stockholding Limits**: Restrictions under the Essential Commodities Act, 1955 discourage buyers from entering contracts.
+- **Lack of Uniformity**: Inconsistent laws across states regarding the types of produce and conditions hinder contract farming.
+- **Regional Inequality**: Contract farming is mostly practiced in agriculturally developed states (e.g., Punjab, Tamil Nadu), while small and marginal farmers in other states miss out.
+- **Supply-Side Issues**: Small and marginal farmers (with an average landholding of 1.15 hectares) face high transaction costs, deterring buyers from engaging with them.
+- **Capital-Intensive and Unsustainable**: It promotes the heavy use of fertilizers and pesticides, negatively impacting the environment and human health.
+- **Monoculture Farming**: Encourages monoculture, harming soil health and increasing food security risks.
+- **Increased Dependency**: Farmers become dependent on corporations for inputs, making them vulnerable.
+- **Predetermined Prices**: Fixed prices may prevent farmers from benefiting from higher market prices.
+
+
+------
