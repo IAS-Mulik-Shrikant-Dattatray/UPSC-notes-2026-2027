@@ -273,3 +273,37 @@ Pros (favor) and Cons (against) of Universal Basic Income (UBI):
 
 ----
 
+### Universal Basic Income (UBI) vs. Targeted Transfer Schemes  
+
+**Targeted Schemes**  
+Targeted transfer schemes focus on providing welfare benefits to specific groups, such as the poor or marginalized, using methods to identify those most in need.  
+
+- **Advantages**:  
+  - Evidence from countries like Indonesia and Peru shows significant welfare improvements for the poorest.  
+  - Higher per-beneficiary benefits compared to universal programs by concentrating resources on those most in need.  
+
+- **Challenges**:  
+  - **Exclusion Error**: Imperfect targeting can leave out eligible poor households, reducing program effectiveness.  
+
+**Improving Targeted Schemes**  
+1. **Community-Based Targeting**:  
+   - Communities decide who is most in need through participatory meetings.  
+   - Enhances transparency, inclusion, and fairness.  
+   - Strengthens local governance with tools like social audits.  
+
+2. **Technology Integration**:  
+   - Platforms like Aadhaar, Jan-Dhan, and mobile networks improve targeting efficiency and speed of cash transfers.  
+   - Reduces administrative costs and allows resources to focus on growth-oriented initiatives.  
+
+3. **Conditional Transfers**:  
+   - Benefits tied to conditions like school attendance or healthcare compliance.  
+   - Improves education and health outcomes in targeted areas.  
+
+**Conclusion**  
+- **Universal Basic Income (UBI)**: Eliminates exclusion errors by providing benefits to all but may dilute resources for the poorest.  
+- **Targeted Schemes**: Maximize benefits for the neediest but face challenges in accurate targeting.  
+
+Ultimately, refining targeting methods and improving implementation can enhance welfare programs' impact, regardless of whether a UBI or targeted approach is adopted.
+
+
+----
