@@ -415,3 +415,28 @@ The Transformation of Aspirational Districts (TAD) program aims to quickly trans
 In summary, the TAD program focuses on improving districts by leveraging convergence, collaboration, and competition, with ongoing monitoring and targeted interventions, while the Sankalp Saptaah aims to enhance block-level governance and quality of life.
 
 -----
+
+**7.5 Strategy on Resource Efficiency (RE) Summary**
+
+NITI Aayog, in collaboration with the European Union delegation to India, released the Strategy on Resource Efficiency (RE) to enhance sustainable resource use in India, inspired by international programs like Germany's ProgRess and the European Commission's Roadmap.
+
+**Key Developments:**
+- **Indian Resource Efficiency Programme (IREP):** Launched in April 2017 by MoEFCC and the Indian Resource Panel (InRP) to make resource use economically and environmentally sustainable.
+- **IREP Recommendations:** It calls for a strategy to improve resource-use efficiency in the economy and industries, focusing on material consumption in key sectors like construction and mobility.
+- **Measurement Indicator:** The strategy suggests using GDP per Domestic Material Consumption (DMC) to track RE progress in the early phase.
+
+**Focus Areas:**
+- **Strategic Sectors:** The strategy emphasizes sectors like construction and mobility, which are significant material consumers, contribute to GDP, and provide substantial employment.
+- **Global Resource Consumption:** India is the third-largest consumer of raw materials globally and is projected to consume 15 billion tonnes of material by 2030.
+
+**Challenges:**
+- **Consumption Patterns:** There is a significant disparity in resource access across India, with the upper and middle classes having an oversupply of resources, while the poor face severe undersupply.
+- **Environmental and Economic Concerns:** Issues like resource depletion, price shocks, and degradation of the natural resource base highlight the need for urgent, judicious resource use.
+
+**SDG 12 Alignment:**
+- The strategy aligns with SDG 12, which focuses on responsible consumption and production, balancing growth and environmental sustainability for long-term human security.
+
+In summary, the Strategy on Resource Efficiency aims to improve material consumption efficiency in key sectors, addressing disparities in resource access, and contributing to sustainable growth aligned with global and national goals.
+
+
+----
