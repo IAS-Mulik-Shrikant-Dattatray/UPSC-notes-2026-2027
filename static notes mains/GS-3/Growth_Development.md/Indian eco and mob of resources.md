@@ -164,3 +164,13 @@ NOTE :
 
 
 ----
+
+
+**7. State Finances:**
+
+The Reserve Bank of India recently released the annual report *“State Finances: A Study of Budget 2023-24”*, focusing on the theme of **‘Revenue Dynamics and Fiscal Capacity of Indian States’**.
+
+![alt text](image-9.png)
+
+
+----
