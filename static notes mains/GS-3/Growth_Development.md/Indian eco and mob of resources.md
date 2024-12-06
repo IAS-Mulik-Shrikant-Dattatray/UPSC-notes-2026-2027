@@ -187,3 +187,25 @@ The Reserve Bank of India recently released the annual report *“State Finances
 
 
 -----
+
+
+**7.2. Ways to Improve State Finances:**
+
+- **Increase Non-Tax Revenue:** States can boost non-tax revenues by revising user charges for services like electricity and water, generating royalties and premiums from mining, and monetizing assets.
+
+- **Prevent Revenue Loss from Illegal Mining:** Use modern technologies, such as Geographic Information Systems (GIS) and Drone Surveys, to detect and curb illegal mining activities.
+
+- **Performance-Based Transfers:** The Finance Commissions could recommend increasing conditional transfers based on states' reforms, expenditure quality, and fiscal sustainability, encouraging competition among states to improve their economic performance.
+
+- **Increase Fiscal Capacity:** States need to scale up their fiscal capacity to ensure efficient delivery of social, economic, and general services, and to improve the quality of physical and human capital.
+
+- **Streamline Fund Transfers for Efficient Governance:** Effective banking and cash management practices are crucial for proper utilization of financial resources and timely payments. Fragmented banking systems with multiple accounts can lead to inefficiencies.
+
+- **Climate Finance:** The Centre can offer performance-based incentives to states making significant progress toward climate goals.
+
+
+![alt text](image-10.png)
+
+
+
+------
