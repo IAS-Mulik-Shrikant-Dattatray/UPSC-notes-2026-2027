@@ -174,3 +174,16 @@ The Reserve Bank of India recently released the annual report *“State Finances
 
 
 ----
+
+**7.1. Concerns with State Finances:**
+
+- **Low Non-Tax Revenue Collection:** Non-tax revenues have remained around 1% of GDP over the past decade, much lower than the 10% or more seen in countries like Singapore, Egypt, and Iran.
+  
+- **Reduced Development Expenditure:** Allocations for key sectors such as education, sports, culture, natural calamity relief, urban development, agriculture, and rural development have been cut.
+
+- **Old Pension Scheme (OPS):** Returning to the OPS would create a significant fiscal burden, limiting states' ability to invest in growth-promoting capital expenditures. If all states revert to OPS, the fiscal burden could be 4.5 times higher than the National Pension System (NPS).
+
+- **Precarious Fiscal Situation:** Continuing to provide non-merit goods, subsidies, transfers, and guarantees could destabilize state finances and undermine the fiscal consolidation achieved in recent years.
+
+
+-----
