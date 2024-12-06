@@ -209,3 +209,35 @@ The Reserve Bank of India recently released the annual report *“State Finances
 
 
 ------
+
+
+**8. Panchayat’s Finance:**
+
+- **Weak Internal Resource Generation:** Panchayats struggle to generate internal resources, due to a narrow tax base and reluctance to collect revenue.
+
+- **Dependence on Grants:** Panchayats rely heavily on grants from Union and State Governments, with a large portion being scheme-specific.
+
+- **Limited Expenditure Flexibility:** Panchayats have little discretion in how they can spend, reducing their fiscal autonomy.
+
+- **State Governments' Reluctance:** Due to their own fiscal constraints, State Governments are hesitant to devolve funds to Panchayats.
+
+- **Inadequate Resources:** Panchayats are given significant responsibilities but lack sufficient resources to carry them out effectively.
+
+
+-------
+
+
+**8.1. Suggestions to Increase Revenue of Panchayats:**
+
+- **Explore Additional Revenue Sources:** Panchayats should tap into growing sectors like transport, tourism, and infrastructure, which have benefited rural areas.
+  
+- **Optimize Tax Collection:** Traditional tax options, such as profession tax, cattle registration fees, and vehicle registration fees, have not been fully exploited by Panchayats. They should be more proactive in collecting these taxes.
+
+- **Utilize Common Property Resources:** Panchayats should identify and make productive use of common property resources in their areas for revenue generation.
+
+- **Royalties from Mining:** Panchayats should have a primary right over income from mining royalties in their region. State Finance Commissions should consider this when allocating grants to rural bodies, and State Governments should empower Panchayats to collect a cess on mining royalties.
+
+- **Incentivize Revenue Efforts:** Panchayats that show positive results in revenue generation should be rewarded. Grants and aids from the Centre and State should be linked to the revenue efforts of local bodies.
+
+
+-----
