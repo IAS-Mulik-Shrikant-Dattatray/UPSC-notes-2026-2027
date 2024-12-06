@@ -10,6 +10,9 @@ A resource is anything with utility or usability. The government needs human, ph
 
  **2. Sources of Government’s Financial Resources**
 
+ Mobilization of Resources:
+Governments need human, physical, and economic resources to perform functions. In this context, mobilization refers to efficiently collecting and channeling financial resources.
+
 #### **Sources**  
 1. **Tax Revenue**  
    - Direct taxes (e.g., income tax).  
