@@ -241,3 +241,11 @@ The Reserve Bank of India recently released the annual report *“State Finances
 
 
 -----
+
+
+**9. Urban Local Bodies’ Finances**
+
+![alt text](image-11.png)
+
+-----
+
