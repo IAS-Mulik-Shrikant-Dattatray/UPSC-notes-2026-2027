@@ -249,3 +249,27 @@ The Reserve Bank of India recently released the annual report *“State Finances
 
 -----
 
+
+**9.1 Suggestions to Increase Revenue of Urban Local Bodies:**
+
+- **Improve Property Tax Collection:**
+  - **Widen the Tax Base:** Currently, only 50-60% of properties are assessed. Many properties, especially those outside municipal jurisdiction or exempt due to their nature (e.g., religious or charitable institutions), are not taxed. Local governments should be empowered to collect ‘service charges’ from these properties that use municipal services.
+  - **Improve Collection Efficiency:** Property tax collection efficiency is low (53% on average), with some areas like Mumbai even lower (28%). Poor record-keeping, collusion, and lack of understanding of the tax system contribute to this issue. Improving data management and transparency is key.
+  - **Make Property Tax Buoyant:** Property taxes often remain unchanged for years or even decades. The Unit Area Method could be used to ensure more regular and fair assessments.
+
+- **Follow ARC Guidelines for Tax Administration:** 
+  - Ensure transparent and objective tax levies.
+  - Minimize collection and compliance costs.
+  - Establish an independent unit under the Chief Executive to monitor tax collection.
+  - Base levies on self-declaration with strict penalties for non-compliance.
+
+- **User Charges for Municipal Services:** Encourage the levy of appropriate user charges for various services provided by municipalities to enhance revenue.
+
+- **Fiscal Management Laws:** State governments should set laws that define upper limits for municipal borrowings, especially when municipalities borrow based on their own ratings.
+
+- **Enhance Institutional Capability:** Municipal bodies' capacity must be improved for successful public-private partnership (PPP) projects.
+
+- **Leverage Municipal Land for Investment:** Municipal land can be used to raise infrastructure investments by leasing it out or borrowing against its value.
+
+
+-----
