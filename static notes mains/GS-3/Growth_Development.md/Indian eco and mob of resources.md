@@ -286,7 +286,7 @@ The Reserve Bank of India recently released the annual report *“State Finances
   
   *Net Capital Formation (NCF)* differs by accounting for depreciation and damage to assets.
 
-**9.1. Significance of GFCF:**
+**10.1. Significance of GFCF:**
 
 - **Growth Multiplier:** GFCF is positively linked to GDP, meaning an increase in GFCF leads to economic growth.
 - **Boosts Productivity & Living Standards:** It enables workers to produce more goods and services, improving output and living standards.
@@ -294,7 +294,7 @@ The Reserve Bank of India recently released the annual report *“State Finances
 - **Indicator of Market Confidence:** Private GFCF reflects business confidence and future economic growth potential.
 - **Reflects Economic Output:** GFCF shows the economy's capacity to produce goods, influencing consumer purchasing power.
 
-**9.2 Challenges:**
+**10.2 Challenges:**
 
 - **Slow Reforms:** Issues like delayed land acquisition hinder investor confidence and capital inflows.
 - **Bank and Corporate Financial Issues:** Financial instability in banks and corporations limits available capital for reinvestment.
