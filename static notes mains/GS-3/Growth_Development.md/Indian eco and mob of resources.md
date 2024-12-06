@@ -56,3 +56,25 @@ Governments need human, physical, and economic resources to perform functions. I
 
 
 -----
+
+**3. Transfer of Resources from Center to States**
+
+
+In the federal system of India, state and local bodies depend a lot on Center for meeting their financial requirements.
+
+Mechanisms used to channel resources from the Central Government to the States in India. Here's a simplified and concise summary:
+
+### Mechanisms to Allocate Resources:
+1. **Finance Commission**:
+   - Defines the principles for sharing taxes between the Union and the States.
+
+2. **Goods and Services Tax (GST) Council**:
+   - Recommends GST rates, exemptions, surcharges, rules, and special provisions (e.g., for North Eastern states).
+
+3. **Grants-in-Aid** (Article 275 of the Constitution):
+   - Provides financial assistance to states.
+
+4. **Discretionary Grants** (Article 282):
+   - Offers funds at the Union’s discretion for specific purposes. 
+
+This structure ensures fair resource distribution based on constitutional provisions and fiscal recommendations.
