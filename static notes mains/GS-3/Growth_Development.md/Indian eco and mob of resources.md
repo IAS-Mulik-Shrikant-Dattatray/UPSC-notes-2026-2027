@@ -119,7 +119,7 @@ NOTE :
 ----
 
 
-**Steps Taken by the Government:**
+**5. Steps Taken by the Government:**
 
 - Abolished plan and non-plan expenditure categories.
 - Merged the General and Railways Budgets.
