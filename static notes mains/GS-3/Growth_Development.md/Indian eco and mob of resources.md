@@ -141,3 +141,26 @@ NOTE :
 
 
 ----
+
+
+**6. Suggestions to Improve Mobilization of Resources:**
+
+- **Mobilization of States' Revenues:**
+  - Revenue generation varies widely among states, from 5% to 10% of GSDP in major states.
+  - States can improve revenue through better tax administration, using data analytics and technology to reduce leakages, rationalizing tax and user fees, and broadening the tax base.
+
+- **Private Sector Resource Mobilization:**
+  - The National Infrastructure Pipeline relies on private capital for financing.
+  - Strengthen capabilities in public-private partnerships, focusing on risk-sharing models and asset monetization, especially for sectors like energy, urban development, transport, logistics, health, and education.
+  - Utilize real estate investment trusts (REITs) and infrastructure investment trusts (InvITs) to attract private sector investment.
+
+- **Ramping up Climate Finance:**
+  - Mobilizing international and domestic climate finance, especially lower-cost finance, is key to India's low-carbon development.
+  - Green bonds and climate budgeting can help governments integrate climate considerations into their financial planning.
+
+- **Strengthening Urban Bodies' Revenues and Fiscal Management:**
+  - To improve the creditworthiness of urban local bodies (ULBs), increase revenues (e.g., property taxes), rationalize expenditures, enhance efficiencies, and improve governance.
+  - Strengthen the finances of government agencies and parastatal organizations providing urban infrastructure and services to enhance service delivery.
+
+
+----
