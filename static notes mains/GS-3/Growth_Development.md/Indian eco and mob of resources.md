@@ -13,7 +13,7 @@ A resource is anything with utility or usability. The government needs human, ph
  Mobilization of Resources:
 Governments need human, physical, and economic resources to perform functions. In this context, mobilization refers to efficiently collecting and channeling financial resources.
 
-#### **Sources**  
+ **2.1. Sources**  
 1. **Tax Revenue**  
    - Direct taxes (e.g., income tax).  
    - Indirect taxes (e.g., GST, customs).  
@@ -28,7 +28,7 @@ Governments need human, physical, and economic resources to perform functions. I
 
 ---
 
-### **Issues**  
+ **2.2. Issues**  
 1. **Distribution of Financial Resources**  
    - Imbalance between the center and states (horizontal and vertical).  
 2. **Fiscal Consolidation**  
@@ -42,7 +42,7 @@ Governments need human, physical, and economic resources to perform functions. I
 
 ---
 
-### **Steps Taken**  
+ **2.3. Steps Taken**  
 1. **Reforms in Expenditure**  
    - Discontinuation of plan vs. non-plan expenditure classification.  
    - Merging General Budget and Railway Budget.  
