@@ -64,7 +64,7 @@ In the federal system of India, state and local bodies depend a lot on Center fo
 
 Mechanisms used to channel resources from the Central Government to the States in India. Here's a simplified and concise summary:
 
-### Mechanisms to Allocate Resources:
+ **Mechanisms to Allocate Resources:**
 1. **Finance Commission**:
    - Defines the principles for sharing taxes between the Union and the States.
 
