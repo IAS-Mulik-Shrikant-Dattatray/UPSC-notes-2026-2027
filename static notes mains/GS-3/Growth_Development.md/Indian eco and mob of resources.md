@@ -10,7 +10,7 @@ Let me carefully review the content to ensure everything is extracted properly. 
 
 ---
 
-### **2. Sources of Government’s Financial Resources**
+ **2. Sources of Government’s Financial Resources**
 
 #### **Sources**  
 1. **Tax Revenue**  
