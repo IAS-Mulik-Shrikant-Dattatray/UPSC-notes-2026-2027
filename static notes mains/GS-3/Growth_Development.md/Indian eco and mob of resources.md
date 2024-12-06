@@ -78,3 +78,42 @@ Mechanisms used to channel resources from the Central Government to the States i
    - Offers funds at the Union’s discretion for specific purposes. 
 
 This structure ensures fair resource distribution based on constitutional provisions and fiscal recommendations.
+
+
+
+----
+
+
+**4. Issues in Mobilization of Resources:**
+
+A. **Imbalance in Resource Distribution:** There is vertical imbalance (between the Centre and States) and horizontal imbalance (among states with varying fiscal capacities) in financial resource distribution.
+
+B. **Fiscal Consolidation:** 
+- From 2011-12 to 2019-20, the Union government's fiscal deficit stayed above the FRBM target, improving from 5.9% of GDP in 2011-12 to 3.4% in 2018-19, but rising again to 4.6% in 2019-20 and 9.22% in 2020-21 due to COVID-19-induced revenue declines.
+- States performed better in meeting fiscal targets, maintaining deficits below 3% of GDP (except during 2015-17). However, state deficits rose to 4.53% in 2020-21 (RE).
+
+C. **Low Tax-to-GDP Ratio:** India's tax-to-GDP ratio for 2023-24 is 11.6%, much lower than the OECD and emerging market averages. Reasons for this include:
+- Low per capita income and rapid growth of tax exemptions.
+- Lack of policy initiatives and tax exemptions for certain sectors.
+- A small proportion of the population are taxpayers (2.2% in India vs. 50% in the US).
+- Inefficient tax administration, corporate tax issues, and legal disputes reduce revenue.
+
+D. **Inefficient Subsidy System:** India's subsidy system, especially for food, fertilizers, and fuel, is highly inefficient, and many needy people do not receive their due subsidies.
+
+E. **Rising Tax Arrears:** The income tax department has Rs 11.1 lakh crore in arrears (as of 2017-18), hindered by issues like litigation, liquidation, and untraceable taxpayers.
+
+F. **Corporate Tax Exemptions:** Despite a competitive corporate tax rate, India's effective tax rate is low due to numerous exemptions, which need rationalization.
+
+
+
+NOTE : 
+
+**NITI Aayog on Rationalizing Subsidies:**
+
+- Social subsidies should focus on making people economically independent rather than creating dependency.
+- Subsidies have crowded out critical spending on education and health within revenue expenditure.
+- Subsidy targeting should improve by using socio-economic and caste census data.
+- Production subsidies, such as cheap land and other benefits to companies, should be eliminated.
+- Direct Benefit Transfer (DBT) should be used in all social welfare schemes for more efficient distribution.
+
+----
