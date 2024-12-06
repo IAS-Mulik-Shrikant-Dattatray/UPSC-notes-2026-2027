@@ -117,3 +117,27 @@ NOTE :
 - Direct Benefit Transfer (DBT) should be used in all social welfare schemes for more efficient distribution.
 
 ----
+
+
+**Steps Taken by the Government:**
+
+- Abolished plan and non-plan expenditure categories.
+- Merged the General and Railways Budgets.
+- Restructured Centrally Sponsored Schemes (CSS).
+- Formed the N.K. Singh panel to review the Fiscal Responsibility and Budget Management Act (FRBMA) for fiscal consolidation.
+- Rationalized subsidies through initiatives such as:
+  - Direct Benefit Transfer (DBT) via the Jan Dhan-Mobile-Aadhar trinity.
+  - Switching to a nutrient-based subsidy scheme for fertilizers.
+  - Eliminating fuel subsidies, except for LPG and Kerosene.
+  - Freeing diesel and petrol prices.
+  - Implementing the "Give-it-up" campaign and withdrawing LPG subsidies for high-income consumers.
+  - Launching the One Nation One Ration Card (ONORC) plan.
+- Reviewed Public-Private Partnership (PPP) projects with steps like:
+  - Establishing a strong institutional structure for appraising and approving PPPs.
+  - Creating standardized documents, such as model concession agreements for infrastructure sectors.
+  - Enhancing finance availability through dedicated institutions and viability gap funding.
+  - Abolishing the Foreign Investment Promotion Board (FIPB) since over 90% of FDI inflows are routed through the automatic route.
+- Set up the National Land Monetisation Corporation (NLMC) to accelerate land and asset monetization in public sector entities.
+
+
+----
